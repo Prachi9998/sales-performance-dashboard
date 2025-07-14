@@ -1,0 +1,1001 @@
+﻿Date,Region,State,Sales Rep,Product,Category,Units Sold,Revenue,Profit,Customer Type,Customer Segment,Channel,Profit Margin
+2024-01-01,East,Ohio,Bob,Gamma,Electronics,5,436.02,112.91,New,SMB,Online,25.895601119214717
+2024-01-01,East,North Carolina,Alice,Delta,Furniture,16,759.57,267.47,New,SMB,Retail,35.21334439222192
+2024-01-01,East,Pennsylvania,Bob,Epsilon,Electronics,33,1421.52,506.63,Returning,SMB,Online,35.640019134447634
+2024-01-01,West,New York,Diana,Gamma,Furniture,42,3731.94,1407.33,New,Enterprise,Online,37.71041335069695
+2024-01-01,West,Michigan,Diana,Epsilon,Electronics,3,213.83,24.17,Returning,Enterprise,Retail,11.303371837440958
+2024-01-01,East,Florida,Diana,Beta,Office Supplies,20,585.59,178.79,New,Individual,Online,30.531600607933875
+2023-12-31,South,New York,Diana,Beta,Electronics,22,1688.45,629.34,New,SMB,Online,37.27323876928544
+2023-12-31,East,Georgia,Bob,Alpha,Electronics,15,694.83,235.92,New,Individual,Online,33.953628945209616
+2023-12-31,East,New York,Bob,Gamma,Office Supplies,4,180.31,47.61,New,Individual,Online,26.4045255393489
+2023-12-30,South,Illinois,Bob,Delta,Office Supplies,46,2869.73,932.52,New,SMB,Online,32.49504308767724
+2023-12-30,West,Ohio,Bob,Epsilon,Office Supplies,44,1312.75,246.91,Returning,Enterprise,Retail,18.80860788421253
+2023-12-29,North,North Carolina,Bob,Gamma,Furniture,40,1846.7,406.1,New,SMB,Online,21.99057778740456
+2023-12-29,West,California,Alice,Gamma,Furniture,13,1285.05,341.57,New,SMB,Retail,26.580288704719663
+2023-12-29,West,New York,Diana,Epsilon,Office Supplies,9,620.61,153.14,New,SMB,Retail,24.675722273247285
+2023-12-29,South,Ohio,Bob,Delta,Furniture,41,3826.13,1027.7,New,Enterprise,Retail,26.860038733655156
+2023-12-28,West,California,Diana,Epsilon,Electronics,10,321.74,65.42,New,Individual,Retail,20.3331882886803
+2023-12-28,West,Ohio,Alice,Alpha,Office Supplies,7,379.15,87.77,Returning,Enterprise,Online,23.14914941316102
+2023-12-27,East,Texas,Charlie,Gamma,Electronics,18,441.87,150.48,New,SMB,Retail,34.055265123226285
+2023-12-27,South,Michigan,Bob,Beta,Electronics,24,1557.69,262.65,New,SMB,Retail,16.861506461491054
+2023-12-27,North,Georgia,Charlie,Epsilon,Electronics,42,3990.79,1086.86,Returning,Enterprise,Online,27.23420676106735
+2023-12-27,North,Ohio,Bob,Gamma,Electronics,40,1404.67,294.62,New,Individual,Online,20.974321370855787
+2023-12-26,South,Pennsylvania,Charlie,Beta,Electronics,37,3326.63,1219.69,Returning,Individual,Retail,36.6644321731001
+2023-12-24,East,Ohio,Alice,Beta,Furniture,7,277.99,109.92,New,Enterprise,Retail,39.540990683118096
+2023-12-24,East,Ohio,Alice,Beta,Furniture,19,1743.89,263.51,Returning,Enterprise,Online,15.11047141734857
+2023-12-23,South,Ohio,Charlie,Beta,Office Supplies,49,1284.11,227.12,New,SMB,Retail,17.68695828239014
+2023-12-22,West,Texas,Charlie,Delta,Furniture,26,635.04,96.23,Returning,SMB,Retail,15.15337616528093
+2023-12-22,West,Florida,Charlie,Alpha,Office Supplies,33,2893.2,833,Returning,Enterprise,Retail,28.791649384764277
+2023-12-22,North,North Carolina,Charlie,Delta,Electronics,25,1259.3,192.49,Returning,Individual,Retail,15.28547605812753
+2023-12-22,East,California,Diana,Beta,Electronics,5,259.14,60.27,Returning,Individual,Retail,23.257698541329013
+2023-12-22,West,Florida,Charlie,Alpha,Electronics,19,715.87,229.12,Returning,Enterprise,Retail,32.005811110955904
+2023-12-22,East,New York,Diana,Alpha,Electronics,28,1510.25,224.51,New,Enterprise,Online,14.865750703525906
+2023-12-22,South,Ohio,Bob,Delta,Furniture,2,126.43,19.38,New,Enterprise,Online,15.328640354346277
+2023-12-21,West,New York,Charlie,Alpha,Furniture,47,2449.28,660.39,New,Enterprise,Retail,26.962617585576165
+2023-12-21,North,Georgia,Alice,Delta,Electronics,28,739.6,151.62,Returning,SMB,Retail,20.500270416441317
+2023-12-21,East,California,Bob,Gamma,Electronics,6,501.29,75.88,New,Individual,Retail,15.136946677571864
+2023-12-21,South,Michigan,Diana,Alpha,Furniture,16,967.68,159.39,New,Individual,Online,16.471354166666664
+2023-12-20,East,Pennsylvania,Diana,Beta,Office Supplies,23,2236.59,617.74,New,SMB,Retail,27.619724670145175
+2023-12-20,South,Florida,Alice,Alpha,Office Supplies,8,728.2,159.63,Returning,SMB,Online,21.921175501235922
+2023-12-20,South,Georgia,Diana,Delta,Electronics,11,648.47,227.96,New,SMB,Online,35.15351519731059
+2023-12-19,North,New York,Bob,Delta,Electronics,15,690.26,235.53,Returning,SMB,Online,34.12192507171211
+2023-12-19,East,Georgia,Alice,Beta,Furniture,22,802.5,93.44,New,Enterprise,Online,11.643613707165109
+2023-12-19,South,California,Alice,Beta,Office Supplies,38,845.86,309.99,New,SMB,Retail,36.64790863736316
+2023-12-19,West,Georgia,Bob,Gamma,Electronics,13,573.36,179.09,New,SMB,Online,31.235175108134506
+2023-12-19,North,Texas,Bob,Epsilon,Electronics,46,1882.58,265.12,New,Enterprise,Retail,14.08280126209776
+2023-12-18,South,New York,Charlie,Delta,Furniture,35,1113.26,392.43,Returning,Individual,Retail,35.2505254837145
+2023-12-17,West,Texas,Charlie,Delta,Furniture,33,1846.57,633.32,New,SMB,Online,34.29710219488024
+2023-12-17,North,New York,Alice,Epsilon,Furniture,4,218.37,44.42,New,SMB,Online,20.34162201767642
+2023-12-17,West,Florida,Bob,Alpha,Office Supplies,21,1747,332.38,Returning,SMB,Online,19.02575844304522
+2023-12-16,South,Ohio,Diana,Gamma,Office Supplies,48,4562.47,887.86,New,Enterprise,Retail,19.4600731621249
+2023-12-15,East,Illinois,Alice,Beta,Furniture,38,2697.81,459.48,Returning,Individual,Retail,17.03159229152535
+2023-12-15,East,Georgia,Diana,Beta,Electronics,26,2172.67,720.18,Returning,Individual,Online,33.14723358816571
+2023-12-15,East,North Carolina,Charlie,Delta,Office Supplies,15,927.35,353.3,New,Enterprise,Online,38.09780557502561
+2023-12-15,West,Ohio,Alice,Beta,Office Supplies,44,4187.06,701.11,Returning,Enterprise,Retail,16.74468481464321
+2023-12-15,South,Michigan,Diana,Gamma,Electronics,6,251.75,44.35,New,Enterprise,Retail,17.616683217477657
+2023-12-14,North,North Carolina,Diana,Gamma,Office Supplies,32,2807.96,309.45,New,SMB,Retail,11.02045613185373
+2023-12-14,South,Texas,Bob,Epsilon,Office Supplies,20,412.29,153.86,New,Individual,Online,37.31839239370346
+2023-12-14,West,Pennsylvania,Bob,Beta,Electronics,36,2738.11,906.51,Returning,Individual,Online,33.10714324844509
+2023-12-14,West,Ohio,Alice,Delta,Furniture,31,2849.27,769.47,Returning,Individual,Retail,27.005864660070827
+2023-12-13,North,North Carolina,Alice,Beta,Electronics,9,459.56,59.04,Returning,SMB,Retail,12.847071111497954
+2023-12-13,West,Georgia,Alice,Alpha,Office Supplies,3,275.82,52.67,Returning,SMB,Retail,19.095787107533898
+2023-12-12,North,Florida,Diana,Epsilon,Furniture,35,2825,742.43,Returning,Individual,Retail,26.280707964601767
+2023-12-12,North,Texas,Diana,Beta,Office Supplies,10,481.47,187.88,New,Individual,Retail,39.022161297692485
+2023-12-11,West,New York,Alice,Delta,Furniture,10,371.4,144.53,Returning,Individual,Retail,38.91491653204093
+2023-12-11,East,Illinois,Charlie,Gamma,Electronics,1,68.78,21.97,New,SMB,Retail,31.942425123582435
+2023-12-11,West,North Carolina,Diana,Delta,Office Supplies,24,1088.72,349.67,Returning,SMB,Retail,32.11753251524726
+2023-12-11,West,Illinois,Alice,Delta,Electronics,23,607.5,231.01,New,SMB,Retail,38.02633744855967
+2023-12-10,West,Georgia,Charlie,Beta,Electronics,21,1895.51,336.52,Returning,Individual,Online,17.753533349863623
+2023-12-10,South,Ohio,Alice,Delta,Office Supplies,46,3620.14,964.87,New,Enterprise,Retail,26.652836630627547
+2023-12-10,North,Georgia,Diana,Delta,Office Supplies,9,785.96,260.74,Returning,SMB,Retail,33.174716270548124
+2023-12-10,North,Florida,Bob,Gamma,Furniture,27,1580.42,168.56,New,Enterprise,Retail,10.66551929234001
+2023-12-09,South,Pennsylvania,Alice,Epsilon,Office Supplies,34,1210.94,383.15,New,Enterprise,Online,31.640708870794587
+2023-12-08,West,Michigan,Alice,Beta,Electronics,10,606.1,199.08,Returning,Individual,Online,32.846065005774626
+2023-12-07,West,Illinois,Charlie,Gamma,Office Supplies,43,3366.77,371.28,Returning,Enterprise,Online,11.027780335455049
+2023-12-07,West,Illinois,Alice,Delta,Electronics,4,111.52,36.01,New,Enterprise,Online,32.290172166427546
+2023-12-07,South,Georgia,Bob,Alpha,Office Supplies,29,2555.61,751.31,Returning,Enterprise,Online,29.398460641490676
+2023-12-07,South,North Carolina,Bob,Beta,Furniture,31,2549.9,684.5,Returning,SMB,Online,26.84418996823405
+2023-12-06,West,Pennsylvania,Charlie,Delta,Office Supplies,2,60.71,9.04,Returning,SMB,Online,14.890462856201614
+2023-12-05,East,Ohio,Diana,Gamma,Office Supplies,34,1785.54,496.2,Returning,SMB,Online,27.789912295440033
+2023-12-05,South,California,Bob,Beta,Electronics,44,3788.29,1311.3,New,Individual,Retail,34.61456224312289
+2023-12-05,North,Ohio,Alice,Alpha,Electronics,44,1398.48,224.42,New,SMB,Online,16.047422916309134
+2023-12-04,East,New York,Charlie,Epsilon,Office Supplies,34,2879.81,619.44,New,Individual,Online,21.50975237949726
+2023-12-03,West,New York,Alice,Epsilon,Furniture,27,2519.21,356.89,New,SMB,Online,14.166742748718844
+2023-12-03,North,Illinois,Diana,Delta,Electronics,35,1857.99,281.63,Returning,SMB,Retail,15.157778028945257
+2023-12-03,East,Florida,Diana,Beta,Electronics,8,697.44,201.28,New,Enterprise,Retail,28.859830236292726
+2023-12-02,East,Illinois,Bob,Epsilon,Furniture,48,1225.08,459.05,New,Individual,Retail,37.47102230058446
+2023-12-02,East,North Carolina,Charlie,Alpha,Furniture,48,3495.32,822.07,New,SMB,Online,23.519162766213107
+2023-12-02,South,Illinois,Bob,Beta,Electronics,30,2958.49,642.28,Returning,Individual,Online,21.70972354140119
+2023-12-01,South,Florida,Alice,Epsilon,Electronics,31,2665.22,282.89,Returning,Individual,Online,10.61413316724323
+2023-12-01,West,Michigan,Charlie,Gamma,Office Supplies,31,2781.98,602.48,New,Enterprise,Retail,21.65651801954004
+2023-12-01,North,Florida,Charlie,Beta,Office Supplies,15,1342.13,147.08,New,Individual,Retail,10.958699976902386
+2023-12-01,North,Pennsylvania,Alice,Delta,Electronics,43,1337.21,414.44,New,Individual,Online,30.992888177623556
+2023-12-01,South,Michigan,Alice,Gamma,Electronics,8,344.71,36.75,New,Enterprise,Retail,10.661135447187492
+2023-11-30,West,Florida,Alice,Alpha,Electronics,5,439.63,111.29,Returning,Enterprise,Online,25.314468985283078
+2023-11-30,South,North Carolina,Diana,Delta,Furniture,31,2028.79,386.55,Returning,SMB,Retail,19.053228771829513
+2023-11-30,South,New York,Diana,Gamma,Furniture,42,1541.28,484.66,Returning,SMB,Online,31.445292224644454
+2023-11-30,North,Florida,Alice,Epsilon,Furniture,27,1600.95,371.21,Returning,SMB,Retail,23.18685780317936
+2023-11-29,North,California,Alice,Delta,Office Supplies,22,849.02,140.35,Returning,Individual,Retail,16.53082377329156
+2023-11-29,West,Ohio,Alice,Epsilon,Furniture,12,1030.52,122,New,Individual,Online,11.838683383146373
+2023-11-29,West,Illinois,Bob,Delta,Furniture,30,2084.88,527.18,New,Enterprise,Online,25.285867771766235
+2023-11-29,East,Ohio,Bob,Epsilon,Office Supplies,12,477.55,169.14,Returning,SMB,Retail,35.41828080829232
+2023-11-29,South,North Carolina,Alice,Delta,Electronics,3,190.66,24.86,Returning,Enterprise,Online,13.038917444665898
+2023-11-29,West,Pennsylvania,Charlie,Alpha,Furniture,41,1815.94,403.48,New,Enterprise,Online,22.21879577519081
+2023-11-29,South,Georgia,Alice,Gamma,Furniture,4,355.04,51.77,Returning,Individual,Online,14.581455610635421
+2023-11-29,North,Michigan,Charlie,Beta,Electronics,9,686.55,136.78,New,Enterprise,Online,19.922802417886533
+2023-11-28,South,Florida,Alice,Beta,Electronics,48,4512.37,1212.55,Returning,Individual,Online,26.871688270243798
+2023-11-27,North,North Carolina,Diana,Delta,Office Supplies,39,1757.56,345.52,Returning,Enterprise,Online,19.659072805480324
+2023-11-27,East,Michigan,Diana,Gamma,Office Supplies,33,1696.77,552.47,New,SMB,Online,32.56009948313561
+2023-11-27,North,Illinois,Charlie,Delta,Office Supplies,43,1173.4,269.07,New,Enterprise,Retail,22.930799386398498
+2023-11-27,East,California,Alice,Epsilon,Furniture,26,1285.33,300.91,New,Individual,Retail,23.4111084312978
+2023-11-27,North,Ohio,Bob,Alpha,Office Supplies,39,3182.64,537.73,Returning,Individual,Retail,16.895721790714628
+2023-11-26,West,Michigan,Charlie,Gamma,Furniture,12,732.16,237.41,New,Individual,Online,32.42597246503497
+2023-11-26,East,Ohio,Charlie,Epsilon,Office Supplies,38,3199.62,719.73,Returning,Individual,Online,22.494233690250717
+2023-11-25,East,California,Bob,Delta,Electronics,43,2788.45,1006.29,Returning,Enterprise,Online,36.08779070809948
+2023-11-24,South,Florida,Diana,Gamma,Electronics,28,2669.47,355.01,Returning,Individual,Online,13.298894537117857
+2023-11-23,East,New York,Diana,Epsilon,Office Supplies,37,2280.03,383.27,Returning,Enterprise,Online,16.809866536843813
+2023-11-23,West,Florida,Alice,Delta,Furniture,44,989.28,267.21,New,Individual,Retail,27.010553129548757
+2023-11-23,North,Florida,Diana,Epsilon,Furniture,12,253.65,96.6,Returning,SMB,Retail,38.08397397989355
+2023-11-22,West,New York,Alice,Epsilon,Electronics,42,3491.48,1331.75,Returning,SMB,Online,38.14285059630873
+2023-11-22,West,Michigan,Diana,Epsilon,Electronics,42,3072.49,515.81,New,SMB,Retail,16.788012328762665
+2023-11-21,North,Ohio,Bob,Gamma,Furniture,8,439.33,94.34,New,SMB,Online,21.473607538752194
+2023-11-21,East,New York,Bob,Beta,Electronics,28,984.25,360.88,Returning,SMB,Online,36.66548133096266
+2023-11-20,North,Florida,Alice,Alpha,Electronics,43,4171.9,1552.84,Returning,Individual,Retail,37.221409909154104
+2023-11-20,South,Michigan,Bob,Alpha,Furniture,9,810.44,102.49,New,Individual,Online,12.646216869848475
+2023-11-19,West,North Carolina,Charlie,Gamma,Office Supplies,12,689.28,145.64,New,Enterprise,Online,21.129294336118846
+2023-11-18,East,Georgia,Bob,Delta,Office Supplies,31,1222.11,217.32,Returning,SMB,Retail,17.78236001669244
+2023-11-18,South,Ohio,Alice,Alpha,Electronics,29,744.92,218.27,New,SMB,Retail,29.301133007571284
+2023-11-18,West,Ohio,Alice,Epsilon,Furniture,2,140.36,15.51,New,SMB,Retail,11.05015673981191
+2023-11-18,East,Florida,Bob,Beta,Office Supplies,33,823.51,290.77,New,SMB,Online,35.30861798885259
+2023-11-18,East,Georgia,Diana,Delta,Office Supplies,25,2014.13,638.94,New,SMB,Online,31.72287786786355
+2023-11-17,North,California,Diana,Epsilon,Furniture,20,624.21,166.43,New,Individual,Retail,26.662501401771838
+2023-11-16,East,Florida,Diana,Delta,Electronics,13,635.66,100.2,Returning,Individual,Retail,15.763143819022748
+2023-11-16,North,New York,Bob,Gamma,Office Supplies,46,3264.65,362.79,New,Enterprise,Online,11.112676703475104
+2023-11-16,South,Texas,Bob,Delta,Electronics,49,1910.08,429.45,New,SMB,Retail,22.483351482660414
+2023-11-16,South,Texas,Bob,Gamma,Electronics,12,532.35,115.17,Returning,Enterprise,Retail,21.63426317272471
+2023-11-15,South,California,Diana,Epsilon,Furniture,37,740.25,166.13,New,SMB,Retail,22.44241810199257
+2023-11-15,South,New York,Alice,Beta,Furniture,49,4337.66,931.15,Returning,Enterprise,Retail,21.466643305376632
+2023-11-15,South,Ohio,Charlie,Epsilon,Electronics,14,324.19,76.47,New,SMB,Retail,23.588019371356303
+2023-11-14,North,Georgia,Alice,Delta,Office Supplies,36,2818.11,787.32,Returning,SMB,Online,27.93787325547974
+2023-11-14,East,Texas,Bob,Gamma,Office Supplies,20,1994.21,737.83,Returning,Enterprise,Retail,36.99861097878358
+2023-11-14,North,Texas,Diana,Alpha,Furniture,6,147.48,40.21,New,SMB,Online,27.26471385950638
+2023-11-13,West,California,Charlie,Beta,Electronics,31,2058.7,487.85,Returning,Enterprise,Online,23.696993248166322
+2023-11-13,North,Florida,Charlie,Beta,Furniture,46,1047.4,189.88,Returning,SMB,Online,18.128699637196867
+2023-11-13,North,Texas,Charlie,Delta,Furniture,11,993.78,217.47,New,SMB,Online,21.883112962627543
+2023-11-13,South,North Carolina,Diana,Alpha,Office Supplies,11,1048.65,113.72,Returning,Enterprise,Online,10.844419014923949
+2023-11-11,West,Illinois,Charlie,Epsilon,Electronics,34,2512.08,871.14,New,SMB,Retail,34.678035731346135
+2023-11-09,West,Georgia,Alice,Delta,Office Supplies,17,380.65,45.07,Returning,SMB,Online,11.840273216865887
+2023-11-09,West,Illinois,Charlie,Epsilon,Office Supplies,11,384.02,44.09,New,SMB,Online,11.481172855580441
+2023-11-09,West,Illinois,Charlie,Delta,Office Supplies,19,506.81,63.78,Returning,Individual,Online,12.584597778260099
+2023-11-09,East,North Carolina,Diana,Alpha,Office Supplies,23,1291.59,157.82,New,Enterprise,Retail,12.219047840258906
+2023-11-09,North,Michigan,Diana,Epsilon,Electronics,5,473.43,165.93,New,SMB,Retail,35.04847601546163
+2023-11-09,East,Michigan,Bob,Alpha,Electronics,32,1006.17,188.26,Returning,Individual,Online,18.71055587028037
+2023-11-08,West,New York,Charlie,Beta,Office Supplies,25,1739.67,458.63,Returning,Enterprise,Online,26.363045865020375
+2023-11-08,West,California,Alice,Beta,Furniture,38,1983.47,446.11,New,Individual,Online,22.491391349503647
+2023-11-08,East,North Carolina,Diana,Alpha,Electronics,22,618.59,115.72,Returning,Individual,Online,18.707059603291356
+2023-11-08,South,Michigan,Bob,Delta,Office Supplies,50,4860.88,1198.14,Returning,Enterprise,Online,24.64862329454749
+2023-11-08,South,North Carolina,Charlie,Alpha,Electronics,12,935.22,244.85,New,SMB,Online,26.181005538803703
+2023-11-08,West,Ohio,Bob,Beta,Office Supplies,27,1309.68,167.62,New,SMB,Retail,12.798546209761163
+2023-11-08,West,Georgia,Charlie,Delta,Furniture,24,762.39,218.1,New,Enterprise,Online,28.60740565852123
+2023-11-07,West,Pennsylvania,Charlie,Epsilon,Office Supplies,29,1855.22,673.55,New,Enterprise,Retail,36.30566725240133
+2023-11-07,East,Florida,Bob,Alpha,Furniture,42,2778.74,674.66,New,SMB,Retail,24.27934963328703
+2023-11-07,North,New York,Alice,Alpha,Furniture,25,883.4,167.3,Returning,Individual,Online,18.938193343898575
+2023-11-06,North,New York,Bob,Beta,Electronics,19,555.19,78.27,New,Enterprise,Retail,14.097876402672957
+2023-11-06,South,Michigan,Charlie,Gamma,Furniture,39,3657.64,1297.34,New,SMB,Online,35.46931901444647
+2023-11-06,North,Ohio,Alice,Beta,Electronics,15,870.6,198.45,Returning,Enterprise,Online,22.794624396967606
+2023-11-06,North,Pennsylvania,Alice,Beta,Furniture,39,1815.74,306.95,New,SMB,Online,16.90495335235221
+2023-11-06,West,New York,Alice,Delta,Office Supplies,21,1358.44,172.97,Returning,Enterprise,Retail,12.732987838991782
+2023-11-06,North,Illinois,Charlie,Delta,Electronics,45,3145.12,735.02,Returning,Enterprise,Online,23.37017347509793
+2023-11-05,South,Ohio,Bob,Alpha,Electronics,8,331.26,92.94,New,Individual,Online,28.05651150153958
+2023-11-05,West,Pennsylvania,Bob,Alpha,Electronics,26,673.34,70.59,New,SMB,Retail,10.483559568717142
+2023-11-04,North,Michigan,Diana,Epsilon,Electronics,19,1699.57,436.05,Returning,Enterprise,Retail,25.65648958265914
+2023-11-04,North,Florida,Bob,Alpha,Office Supplies,16,341.97,82.57,Returning,Individual,Online,24.14539287071965
+2023-11-03,East,North Carolina,Alice,Delta,Office Supplies,17,1244.32,388.09,New,SMB,Online,31.18892246367494
+2023-11-03,North,Ohio,Diana,Epsilon,Office Supplies,40,840.7,270.96,Returning,Individual,Online,32.23028428690377
+2023-11-03,North,Illinois,Bob,Epsilon,Furniture,41,4008.81,1143.55,New,Enterprise,Retail,28.525921657549247
+2023-11-03,East,Pennsylvania,Diana,Gamma,Electronics,16,587.14,99.66,New,Enterprise,Retail,16.973805225329563
+2023-11-02,West,Georgia,Charlie,Delta,Electronics,21,2061.15,618.14,New,Individual,Online,29.990054096014358
+2023-11-01,East,Illinois,Alice,Beta,Office Supplies,23,737.41,267.4,New,SMB,Retail,36.262052318249005
+2023-11-01,West,Texas,Alice,Alpha,Furniture,48,3845.76,495.72,New,Enterprise,Online,12.890039940089865
+2023-11-01,West,California,Diana,Epsilon,Furniture,30,2002.55,233.27,Returning,Individual,Retail,11.648647973833363
+2023-10-31,West,Michigan,Charlie,Gamma,Furniture,23,1090.9,354.89,Returning,Individual,Online,32.53185443212027
+2023-10-31,North,New York,Diana,Delta,Office Supplies,48,4778.61,1803.15,Returning,Enterprise,Online,37.733776139923535
+2023-10-31,West,Texas,Alice,Gamma,Electronics,40,3297.08,407.88,New,SMB,Retail,12.370946413189852
+2023-10-31,South,Michigan,Charlie,Epsilon,Electronics,7,436.1,46.22,Returning,Enterprise,Retail,10.598486585645492
+2023-10-31,North,Florida,Alice,Beta,Furniture,5,432.53,143.34,Returning,Individual,Online,33.1398978105565
+2023-10-30,East,California,Charlie,Delta,Furniture,41,2492.01,463.23,Returning,SMB,Online,18.58860919498718
+2023-10-30,North,Pennsylvania,Bob,Epsilon,Office Supplies,25,1364.66,149,Returning,Individual,Retail,10.918470534785222
+2023-10-30,North,Ohio,Alice,Alpha,Electronics,41,2113.51,774.53,New,SMB,Retail,36.64662102379454
+2023-10-29,North,Michigan,Diana,Beta,Furniture,21,864,256.9,New,SMB,Online,29.733796296296294
+2023-10-29,South,Florida,Bob,Alpha,Office Supplies,29,1942.28,583.55,Returning,Individual,Online,30.04458677430648
+2023-10-29,West,North Carolina,Charlie,Epsilon,Furniture,22,1476.67,480.13,Returning,Enterprise,Online,32.51437355671884
+2023-10-28,North,Illinois,Charlie,Beta,Electronics,4,261.74,61.12,Returning,Individual,Retail,23.35141743715137
+2023-10-28,West,Texas,Bob,Beta,Furniture,31,1060.26,370.12,New,SMB,Online,34.908418689755344
+2023-10-28,South,Michigan,Bob,Alpha,Electronics,39,3050.58,522.36,Returning,SMB,Online,17.123301142733514
+2023-10-28,South,Pennsylvania,Charlie,Alpha,Electronics,23,2095.13,253.21,Returning,SMB,Online,12.085646236749032
+2023-10-27,West,New York,Alice,Gamma,Electronics,15,1100.73,217.67,New,Enterprise,Online,19.775058370354216
+2023-10-27,North,Michigan,Charlie,Gamma,Office Supplies,21,1209.09,441.67,Returning,Enterprise,Retail,36.52912520986858
+2023-10-26,West,New York,Charlie,Delta,Office Supplies,29,1559.13,323.59,New,SMB,Retail,20.75452335597416
+2023-10-26,West,New York,Bob,Delta,Office Supplies,17,865.49,169.9,New,Individual,Online,19.63049833042554
+2023-10-25,West,Georgia,Charlie,Alpha,Furniture,20,1532.35,207.49,Returning,SMB,Retail,13.540640193167357
+2023-10-25,North,Florida,Alice,Alpha,Furniture,19,1611.09,163.72,New,Enterprise,Retail,10.162064192565284
+2023-10-25,East,Pennsylvania,Alice,Epsilon,Electronics,47,2363.12,550.74,New,SMB,Online,23.305629845289282
+2023-10-24,West,Ohio,Charlie,Epsilon,Office Supplies,24,576.94,159.29,New,Enterprise,Online,27.60945678926751
+2023-10-24,South,Texas,Alice,Epsilon,Furniture,11,484.62,78.09,Returning,Individual,Retail,16.11365606041847
+2023-10-24,East,Georgia,Diana,Epsilon,Furniture,33,2409.04,604.69,New,Individual,Retail,25.100870056121945
+2023-10-23,East,Michigan,Charlie,Alpha,Office Supplies,7,437.95,97.69,Returning,Enterprise,Retail,22.306199337823955
+2023-10-23,West,New York,Bob,Beta,Furniture,34,2291.33,672.83,New,Enterprise,Retail,29.364168408740777
+2023-10-23,North,California,Alice,Gamma,Electronics,16,1466.65,498.01,Returning,Individual,Retail,33.955613131967404
+2023-10-22,East,Illinois,Charlie,Epsilon,Office Supplies,1,50.51,15.25,Returning,Enterprise,Online,30.192041179964363
+2023-10-21,West,Michigan,Diana,Epsilon,Furniture,15,818.38,101.01,Returning,SMB,Retail,12.342676996016522
+2023-10-21,East,Ohio,Charlie,Gamma,Office Supplies,37,1548.65,376.28,Returning,SMB,Retail,24.297291189100182
+2023-10-21,South,Ohio,Alice,Alpha,Electronics,47,4035.25,530.98,New,Individual,Online,13.158540363050616
+2023-10-20,South,Georgia,Alice,Alpha,Furniture,6,159.96,23.36,New,Enterprise,Online,14.603650912728181
+2023-10-20,West,Michigan,Diana,Gamma,Furniture,2,41.63,7.6,Returning,Individual,Retail,18.256065337496995
+2023-10-20,East,Illinois,Diana,Gamma,Office Supplies,33,885.97,335.91,New,Individual,Retail,37.91437633328442
+2023-10-20,East,California,Diana,Gamma,Electronics,14,1111.1,424.45,New,SMB,Retail,38.200882008820095
+2023-10-19,North,Illinois,Charlie,Delta,Office Supplies,3,215.29,81.13,New,Individual,Online,37.68405406660783
+2023-10-19,North,North Carolina,Alice,Delta,Furniture,27,2258.49,425.32,New,SMB,Retail,18.832051503438137
+2023-10-19,East,New York,Charlie,Gamma,Electronics,23,1966.01,468.74,New,Individual,Online,23.842198157689943
+2023-10-18,North,California,Alice,Epsilon,Office Supplies,50,4995.69,1582.13,New,Individual,Retail,31.669899453328775
+2023-10-18,West,Pennsylvania,Diana,Gamma,Office Supplies,13,773.68,121.09,New,SMB,Retail,15.651173611829181
+2023-10-18,West,Texas,Diana,Gamma,Electronics,4,120.22,17.26,Returning,SMB,Online,14.357012144401931
+2023-10-18,West,Florida,Diana,Delta,Electronics,28,921.94,246.32,Returning,SMB,Retail,26.7175738117448
+2023-10-17,West,Texas,Alice,Epsilon,Office Supplies,27,1295.42,236.93,New,Enterprise,Retail,18.289821061894983
+2023-10-17,South,Pennsylvania,Charlie,Beta,Electronics,1,29.01,10.56,Returning,Individual,Retail,36.40124095139607
+2023-10-16,South,Florida,Bob,Epsilon,Office Supplies,30,2553.14,561.87,Returning,Enterprise,Online,22.007018808212635
+2023-10-14,East,Georgia,Charlie,Alpha,Office Supplies,38,2772.35,718.97,Returning,SMB,Online,25.93359424315112
+2023-10-14,North,North Carolina,Bob,Gamma,Office Supplies,21,635.13,108.61,New,Individual,Retail,17.10043613118574
+2023-10-14,East,Florida,Bob,Epsilon,Furniture,8,356.76,116.36,New,SMB,Online,32.61576409911425
+2023-10-14,East,Illinois,Diana,Delta,Electronics,29,1052.65,304.14,Returning,SMB,Retail,28.89279437609841
+2023-10-14,North,New York,Bob,Alpha,Electronics,46,4019.52,678.45,Returning,Enterprise,Online,16.878881060425126
+2023-10-13,East,North Carolina,Alice,Alpha,Furniture,40,3338.94,1330.78,New,Enterprise,Online,39.85636159978915
+2023-10-13,North,Illinois,Bob,Beta,Furniture,35,3072.46,395.88,New,Enterprise,Retail,12.884789387005851
+2023-10-13,North,Ohio,Diana,Alpha,Office Supplies,31,1013.46,340.06,New,Enterprise,Online,33.55435833678685
+2023-10-12,South,California,Bob,Gamma,Furniture,7,302.63,107.34,New,SMB,Retail,35.46905462115454
+2023-10-11,West,California,Diana,Gamma,Office Supplies,29,2874.81,957.66,Returning,Enterprise,Online,33.3121145397435
+2023-10-10,South,California,Charlie,Alpha,Office Supplies,38,1762.1,690.36,Returning,Enterprise,Retail,39.17825322058907
+2023-10-10,East,Texas,Diana,Delta,Office Supplies,29,688.95,95.91,New,Enterprise,Online,13.921184411060308
+2023-10-09,North,New York,Bob,Epsilon,Office Supplies,9,431.07,114.16,New,Enterprise,Retail,26.482937805924788
+2023-10-09,North,New York,Alice,Gamma,Furniture,9,322.82,48.51,New,SMB,Online,15.0269500030977
+2023-10-09,West,North Carolina,Bob,Alpha,Furniture,2,133.48,40.23,New,SMB,Online,30.139346718609527
+2023-10-08,East,Illinois,Alice,Delta,Furniture,23,2002.78,331.87,New,Enterprise,Retail,16.57046705079939
+2023-10-08,North,Pennsylvania,Bob,Alpha,Furniture,48,2570.84,472.85,Returning,Individual,Retail,18.392821023478707
+2023-10-08,West,California,Alice,Delta,Electronics,47,4546.22,479.39,Returning,Enterprise,Online,10.544804254963463
+2023-10-08,South,New York,Diana,Gamma,Office Supplies,17,432.05,117.42,Returning,Enterprise,Retail,27.177410021988198
+2023-10-07,East,North Carolina,Alice,Alpha,Furniture,19,1153.5,363.62,New,Individual,Retail,31.523190290420462
+2023-10-07,South,North Carolina,Charlie,Epsilon,Furniture,12,387.01,81.17,New,Individual,Retail,20.973618252758328
+2023-10-06,North,Texas,Alice,Delta,Electronics,14,1369.42,510.97,Returning,Individual,Online,37.31287698441676
+2023-10-06,North,New York,Charlie,Epsilon,Office Supplies,48,4310.09,1064.68,Returning,Enterprise,Retail,24.702036384391047
+2023-10-05,North,Georgia,Alice,Epsilon,Furniture,21,1587.78,235.06,New,Enterprise,Online,14.804317978561263
+2023-10-05,North,New York,Diana,Epsilon,Electronics,47,1980.84,676.05,New,Individual,Retail,34.12946022899376
+2023-10-04,West,Georgia,Alice,Beta,Electronics,47,2360.01,408.94,New,Individual,Retail,17.327892678420852
+2023-10-04,South,Ohio,Charlie,Delta,Furniture,3,289.72,74.27,New,Enterprise,Online,25.63509595471489
+2023-10-04,West,Pennsylvania,Charlie,Beta,Office Supplies,50,2133.13,795.16,New,Enterprise,Retail,37.27667793336552
+2023-10-04,West,Georgia,Charlie,Delta,Office Supplies,6,384.41,75.75,Returning,Individual,Retail,19.705522749148045
+2023-10-03,East,Ohio,Bob,Gamma,Electronics,28,2469.45,649.46,New,Enterprise,Online,26.29978335256839
+2023-10-02,North,Florida,Charlie,Beta,Furniture,23,1024.86,354.41,New,Enterprise,Retail,34.58130866654958
+2023-10-02,North,Florida,Alice,Delta,Office Supplies,1,97.83,11.49,New,Enterprise,Retail,11.744863538791781
+2023-10-01,South,Michigan,Bob,Gamma,Furniture,5,335.3,49.34,Returning,Individual,Retail,14.715180435430957
+2023-10-01,North,Illinois,Bob,Beta,Electronics,41,2846.36,816.19,Returning,Individual,Retail,28.67486895543782
+2023-10-01,North,Michigan,Alice,Epsilon,Electronics,4,215.23,32.8,Returning,SMB,Online,15.239511220554755
+2023-10-01,East,Illinois,Diana,Delta,Electronics,33,2183.88,616.89,Returning,SMB,Retail,28.247431177537223
+2023-09-30,North,Illinois,Charlie,Beta,Electronics,40,3259.69,1219.08,New,SMB,Retail,37.39864833772536
+2023-09-30,West,Texas,Bob,Epsilon,Electronics,5,222.18,79.68,Returning,Individual,Retail,35.86281393464758
+2023-09-30,North,North Carolina,Charlie,Gamma,Office Supplies,48,1648.51,517.26,Returning,Individual,Retail,31.377425675306792
+2023-09-29,East,Michigan,Diana,Beta,Electronics,42,1701.14,394.58,Returning,Individual,Retail,23.195033918431168
+2023-09-29,East,Georgia,Alice,Beta,Electronics,42,3605.87,1003.22,New,Individual,Retail,27.821857138499173
+2023-09-29,East,Ohio,Alice,Delta,Furniture,45,1916.89,193.23,New,Enterprise,Online,10.080390632743661
+2023-09-28,East,Georgia,Charlie,Delta,Electronics,39,3865.71,1041.09,Returning,Enterprise,Retail,26.931404580271153
+2023-09-27,South,Florida,Diana,Epsilon,Furniture,2,68.67,18.18,New,Individual,Online,26.474442988204455
+2023-09-27,West,Illinois,Alice,Gamma,Electronics,16,1088.94,256.5,Returning,Enterprise,Retail,23.555016805333626
+2023-09-26,West,Georgia,Charlie,Delta,Furniture,8,391.28,80.22,Returning,Individual,Retail,20.501942343079126
+2023-09-26,South,Georgia,Diana,Delta,Electronics,38,2593.02,845.1,Returning,SMB,Online,32.591341370294096
+2023-09-25,South,California,Bob,Delta,Electronics,11,309.98,80.78,Returning,Individual,Online,26.059745790050968
+2023-09-25,West,Michigan,Bob,Delta,Office Supplies,10,212.73,39.12,New,Enterprise,Online,18.389507826822733
+2023-09-25,East,North Carolina,Diana,Alpha,Furniture,29,857.85,200.22,Returning,SMB,Retail,23.339744710613743
+2023-09-24,East,Texas,Charlie,Gamma,Furniture,42,2615.74,267.29,Returning,Enterprise,Retail,10.218523247723398
+2023-09-24,East,Florida,Diana,Alpha,Furniture,23,1087.32,164.15,New,SMB,Online,15.096751646249496
+2023-09-23,North,North Carolina,Diana,Delta,Office Supplies,24,764.8,283.56,Returning,Enterprise,Retail,37.07635983263599
+2023-09-23,West,Pennsylvania,Alice,Alpha,Electronics,41,2876.95,815.51,New,Enterprise,Retail,28.346339004848886
+2023-09-22,West,Michigan,Charlie,Alpha,Electronics,50,1815.17,196.11,New,Individual,Retail,10.803946737771119
+2023-09-22,North,North Carolina,Diana,Delta,Electronics,27,729.85,144.52,Returning,SMB,Online,19.801329040213744
+2023-09-22,West,Texas,Charlie,Alpha,Electronics,24,1046.73,234.54,Returning,Individual,Online,22.406924421770654
+2023-09-22,West,California,Diana,Delta,Office Supplies,20,1640.74,575.64,Returning,Individual,Online,35.084169338225436
+2023-09-21,South,Florida,Diana,Delta,Office Supplies,32,1344.81,169.04,Returning,SMB,Retail,12.569805400019336
+2023-09-21,West,Ohio,Alice,Beta,Office Supplies,19,411.25,54.13,Returning,Individual,Retail,13.162310030395139
+2023-09-20,West,California,Charlie,Delta,Electronics,23,665.83,206.49,Returning,SMB,Retail,31.012420587837735
+2023-09-20,North,Illinois,Alice,Gamma,Office Supplies,35,858.74,284.7,Returning,Enterprise,Online,33.15322449169714
+2023-09-19,East,Ohio,Alice,Gamma,Electronics,8,250.52,52.57,New,SMB,Online,20.98435254670286
+2023-09-19,East,Texas,Charlie,Alpha,Office Supplies,47,3043.75,473.7,Returning,Enterprise,Online,15.563039014373716
+2023-09-18,West,Florida,Diana,Delta,Office Supplies,47,1707.16,429.54,New,Enterprise,Online,25.161086248506294
+2023-09-17,East,New York,Diana,Delta,Electronics,16,1018.56,231.98,New,Enterprise,Online,22.775290606346214
+2023-09-16,West,Illinois,Alice,Gamma,Electronics,32,1596.85,471.1,Returning,Enterprise,Retail,29.501831731220847
+2023-09-16,East,Florida,Bob,Beta,Furniture,42,1179.85,390.9,Returning,Individual,Retail,33.13133025384583
+2023-09-16,South,Florida,Diana,Beta,Furniture,20,1081.53,367.59,Returning,Enterprise,Retail,33.987961498987545
+2023-09-16,South,North Carolina,Alice,Epsilon,Office Supplies,41,3280.62,1160.01,Returning,SMB,Online,35.35947473343454
+2023-09-16,North,New York,Bob,Epsilon,Electronics,42,1167.62,143.67,Returning,Individual,Online,12.30451688049194
+2023-09-15,South,Florida,Bob,Delta,Furniture,16,1293.01,269.33,Returning,Individual,Online,20.829691959072242
+2023-09-15,North,Michigan,Diana,Delta,Office Supplies,13,714.03,107.88,New,Enterprise,Online,15.108608881979748
+2023-09-14,South,Michigan,Bob,Beta,Electronics,50,2558.01,288.94,Returning,Enterprise,Retail,11.295499235734027
+2023-09-14,West,Pennsylvania,Diana,Beta,Furniture,41,1102.49,288.94,Returning,SMB,Retail,26.20794746437609
+2023-09-13,West,Georgia,Alice,Beta,Office Supplies,38,3001.88,1047,New,SMB,Retail,34.87814303036764
+2023-09-13,North,Ohio,Diana,Delta,Furniture,19,1482.55,475.58,New,SMB,Retail,32.078513372230276
+2023-09-13,South,Texas,Charlie,Beta,Furniture,12,1090.65,423.98,Returning,Enterprise,Online,38.87406592399028
+2023-09-12,South,Georgia,Diana,Delta,Office Supplies,8,708.88,136,New,Enterprise,Online,19.185193544746642
+2023-09-12,North,Florida,Charlie,Epsilon,Furniture,31,2793.61,703.72,Returning,Enterprise,Online,25.190345109016647
+2023-09-11,South,Illinois,Alice,Delta,Electronics,35,1269.96,260.65,Returning,SMB,Online,20.524268480897035
+2023-09-10,West,Pennsylvania,Charlie,Delta,Electronics,44,3117.68,561.86,New,Individual,Retail,18.021734109979217
+2023-09-10,South,Pennsylvania,Diana,Delta,Office Supplies,34,1259.93,203.33,New,Individual,Online,16.13819815386569
+2023-09-09,North,Illinois,Charlie,Beta,Office Supplies,45,2261.93,657.19,New,SMB,Online,29.05439160363053
+2023-09-09,South,Florida,Bob,Delta,Office Supplies,39,3251.4,1095.78,New,Individual,Online,33.70178999815464
+2023-09-08,South,North Carolina,Bob,Gamma,Electronics,5,311.85,85.75,New,Enterprise,Retail,27.497194163860826
+2023-09-08,West,Illinois,Diana,Delta,Electronics,3,225.83,54.46,New,Enterprise,Online,24.11548509941106
+2023-09-08,North,Michigan,Charlie,Alpha,Furniture,11,479.65,144.7,New,Enterprise,Retail,30.16783070989263
+2023-09-08,South,Illinois,Alice,Alpha,Furniture,21,817.34,134.3,New,SMB,Retail,16.43135047838109
+2023-09-08,East,California,Alice,Epsilon,Furniture,17,1130.11,336.19,New,SMB,Retail,29.748431568608368
+2023-09-08,South,California,Bob,Delta,Furniture,5,319.47,65.18,Returning,Enterprise,Online,20.4025417097067
+2023-09-07,West,Michigan,Diana,Epsilon,Electronics,16,1531.19,386.92,Returning,Individual,Retail,25.26923503941379
+2023-09-07,East,Texas,Bob,Gamma,Electronics,18,651.43,179.97,New,Enterprise,Online,27.626913098874784
+2023-09-07,North,Michigan,Charlie,Epsilon,Furniture,7,292.99,57.88,New,Individual,Retail,19.7549404416533
+2023-09-06,South,Georgia,Charlie,Gamma,Office Supplies,7,369.58,101.58,Returning,Individual,Retail,27.48525353103523
+2023-09-06,North,Ohio,Diana,Beta,Office Supplies,21,1856.95,202.38,New,SMB,Online,10.898516384393764
+2023-09-06,South,Georgia,Charlie,Alpha,Electronics,32,1088.96,333.78,New,Individual,Retail,30.651263590949156
+2023-09-05,West,Michigan,Bob,Alpha,Office Supplies,12,777.91,266.58,New,Enterprise,Online,34.26874574179532
+2023-09-05,North,Pennsylvania,Alice,Epsilon,Electronics,17,906.3,135.01,Returning,SMB,Retail,14.896833278163962
+2023-09-04,North,Texas,Diana,Epsilon,Electronics,30,686.71,242.57,Returning,Enterprise,Retail,35.32349900249013
+2023-09-04,West,Florida,Bob,Epsilon,Furniture,14,659.86,203.28,Returning,SMB,Online,30.80653471948595
+2023-09-04,North,Pennsylvania,Alice,Delta,Electronics,48,3126.48,754.08,Returning,Enterprise,Retail,24.11913717663315
+2023-09-04,East,Michigan,Charlie,Epsilon,Furniture,49,3186.95,806.45,New,Individual,Online,25.304758468127837
+2023-09-04,North,California,Diana,Epsilon,Electronics,10,777.46,225.11,New,Individual,Online,28.954544285236537
+2023-09-04,East,Texas,Diana,Delta,Furniture,10,672.94,69.11,New,Individual,Retail,10.269860611644425
+2023-09-03,North,North Carolina,Bob,Beta,Furniture,20,1078.52,383.73,Returning,Enterprise,Online,35.579312391054415
+2023-09-03,South,Georgia,Charlie,Delta,Electronics,49,1180.31,374.24,Returning,SMB,Online,31.706924452050732
+2023-09-03,East,North Carolina,Charlie,Alpha,Electronics,30,1217.34,379.51,New,Individual,Retail,31.175349532587447
+2023-09-03,West,Pennsylvania,Diana,Delta,Electronics,33,2187.06,737.53,New,Enterprise,Retail,33.722440170822935
+2023-09-03,North,Illinois,Alice,Epsilon,Furniture,28,881.5,343.45,New,Individual,Retail,38.96199659671015
+2023-09-03,South,Texas,Diana,Epsilon,Electronics,33,1978.85,692.32,New,SMB,Retail,34.98597670364101
+2023-09-02,West,North Carolina,Bob,Beta,Furniture,19,1057.62,379.77,Returning,SMB,Retail,35.907982072956266
+2023-09-02,West,Georgia,Charlie,Gamma,Furniture,10,969.38,277.14,New,SMB,Retail,28.589407662629725
+2023-09-02,West,Illinois,Diana,Gamma,Furniture,24,1426.96,488.49,New,SMB,Retail,34.232914727812975
+2023-09-02,West,Texas,Charlie,Gamma,Furniture,25,2197.5,729.17,New,Enterprise,Online,33.181797497155856
+2023-09-02,South,California,Diana,Epsilon,Furniture,40,1000.53,245.84,New,Enterprise,Retail,24.570977381987547
+2023-09-01,South,North Carolina,Diana,Beta,Office Supplies,30,1002.43,364.71,New,Enterprise,Online,36.38259030555749
+2023-09-01,West,Texas,Alice,Epsilon,Electronics,35,2499.48,911.97,New,Individual,Online,36.48638916894714
+2023-09-01,North,Texas,Charlie,Gamma,Furniture,21,1349.31,300.51,Returning,Enterprise,Retail,22.271383151388488
+2023-09-01,South,Illinois,Diana,Beta,Furniture,7,536.34,114.59,Returning,SMB,Online,21.36517880448969
+2023-09-01,West,California,Diana,Gamma,Furniture,15,483.05,173.26,New,Enterprise,Retail,35.867922575302764
+2023-09-01,North,North Carolina,Diana,Alpha,Office Supplies,29,1506.16,534.31,Returning,Enterprise,Online,35.47498273755776
+2023-08-31,North,Michigan,Alice,Gamma,Furniture,35,2021.97,211.11,Returning,Enterprise,Retail,10.440807727117614
+2023-08-31,North,Georgia,Diana,Alpha,Office Supplies,15,782.3,136.03,Returning,Individual,Online,17.38846989645916
+2023-08-31,East,Ohio,Diana,Epsilon,Office Supplies,11,822.56,267.07,New,Enterprise,Online,32.46814822019062
+2023-08-30,East,Pennsylvania,Alice,Beta,Furniture,42,2617.49,577.84,Returning,SMB,Retail,22.076111083518946
+2023-08-30,South,Georgia,Diana,Beta,Furniture,31,2782.44,637.42,Returning,Enterprise,Online,22.90867008812409
+2023-08-29,East,Pennsylvania,Bob,Epsilon,Office Supplies,35,3189.01,924.62,New,Enterprise,Online,28.99395110081185
+2023-08-29,East,Georgia,Charlie,Delta,Electronics,18,1551.96,446.29,Returning,SMB,Online,28.756540117013323
+2023-08-29,East,Texas,Charlie,Delta,Electronics,24,1566.45,295.08,Returning,Enterprise,Retail,18.837498803025948
+2023-08-28,South,Florida,Charlie,Delta,Furniture,17,367.22,99.62,Returning,Enterprise,Online,27.128152061434562
+2023-08-28,North,Georgia,Charlie,Epsilon,Office Supplies,45,3284.59,1051.97,Returning,Enterprise,Online,32.02743721438597
+2023-08-28,East,Georgia,Bob,Delta,Office Supplies,27,939.52,286.03,Returning,Enterprise,Retail,30.444269414168936
+2023-08-28,East,Ohio,Diana,Gamma,Furniture,41,1963.65,774.82,New,SMB,Retail,39.458151910982096
+2023-08-28,East,Illinois,Alice,Alpha,Office Supplies,30,2363.11,716.09,New,Enterprise,Retail,30.30286359923998
+2023-08-28,South,New York,Bob,Alpha,Furniture,21,538.99,127.06,New,Individual,Online,23.573721219317612
+2023-08-27,East,Ohio,Bob,Epsilon,Office Supplies,8,286.39,54.48,Returning,Individual,Online,19.02301057997835
+2023-08-27,North,Ohio,Diana,Delta,Electronics,19,1148.98,293.59,New,Individual,Retail,25.55222893348883
+2023-08-27,North,Texas,Diana,Alpha,Electronics,14,872.04,161.97,New,Individual,Retail,18.57368928030824
+2023-08-27,South,Pennsylvania,Diana,Gamma,Furniture,31,2564.26,436.24,Returning,Individual,Retail,17.012315443831746
+2023-08-26,South,Illinois,Charlie,Delta,Furniture,28,1994.07,774.93,Returning,Individual,Online,38.861725014668494
+2023-08-26,East,Texas,Bob,Beta,Electronics,33,1015.14,113.13,Returning,Individual,Online,11.144275666410545
+2023-08-25,North,California,Bob,Epsilon,Electronics,27,914.98,187.48,Returning,Individual,Retail,20.490065356619816
+2023-08-25,East,Texas,Bob,Alpha,Office Supplies,22,684.58,170.03,New,Individual,Retail,24.837126413275293
+2023-08-24,West,New York,Bob,Alpha,Office Supplies,25,2030.86,284.66,Returning,SMB,Online,14.016721979850901
+2023-08-24,South,Ohio,Diana,Beta,Electronics,41,867.29,143.29,Returning,SMB,Retail,16.521578710696538
+2023-08-24,East,New York,Alice,Gamma,Office Supplies,19,1810.72,453.63,New,Individual,Retail,25.052465317663692
+2023-08-24,South,New York,Diana,Beta,Electronics,13,1298.6,226.62,New,Individual,Online,17.4511011858925
+2023-08-23,South,California,Alice,Alpha,Furniture,20,1992.75,395.52,Returning,Individual,Online,19.84794881445239
+2023-08-23,South,New York,Charlie,Alpha,Office Supplies,50,3269.64,1026.62,New,Individual,Retail,31.39856375625451
+2023-08-23,East,Florida,Bob,Alpha,Furniture,46,3900.65,967.19,New,Individual,Online,24.795610987912273
+2023-08-22,North,North Carolina,Diana,Delta,Electronics,2,183.42,41.14,New,SMB,Online,22.429397012321452
+2023-08-22,South,Pennsylvania,Alice,Epsilon,Furniture,35,2669.44,544.51,Returning,Enterprise,Retail,20.397911172380724
+2023-08-22,East,New York,Alice,Beta,Electronics,10,807.23,120.55,New,Enterprise,Online,14.933785909839822
+2023-08-21,East,California,Bob,Alpha,Electronics,19,693.13,71.79,Returning,SMB,Retail,10.35736441937299
+2023-08-21,East,Michigan,Alice,Epsilon,Electronics,18,549.71,128.65,New,Individual,Online,23.403248985828892
+2023-08-21,East,Illinois,Alice,Epsilon,Furniture,24,2090.62,449.03,Returning,Enterprise,Online,21.478317436932585
+2023-08-20,East,Pennsylvania,Alice,Gamma,Electronics,20,1915.93,473.87,Returning,Enterprise,Online,24.73315830954158
+2023-08-20,South,California,Diana,Delta,Furniture,19,667.18,98,Returning,Individual,Online,14.68868970892413
+2023-08-18,South,North Carolina,Alice,Alpha,Furniture,39,1491.94,580.48,New,SMB,Online,38.90773087389574
+2023-08-17,North,Ohio,Bob,Gamma,Office Supplies,16,474.17,95.34,Returning,Individual,Online,20.10671278233545
+2023-08-17,West,Texas,Alice,Beta,Electronics,2,103.73,14.44,Returning,Individual,Retail,13.920755808348595
+2023-08-17,South,Ohio,Alice,Alpha,Electronics,8,755.66,197.23,Returning,Individual,Retail,26.100362596935128
+2023-08-16,South,Illinois,Diana,Gamma,Furniture,50,2326.72,335.91,New,Enterprise,Online,14.437061614633478
+2023-08-16,North,Texas,Bob,Beta,Furniture,27,2433.72,886.69,New,Enterprise,Retail,36.43352563154348
+2023-08-16,North,Pennsylvania,Alice,Delta,Furniture,16,979.47,231.8,New,Individual,Retail,23.665860108017604
+2023-08-15,East,Georgia,Alice,Alpha,Office Supplies,17,1630.08,261.65,Returning,Enterprise,Retail,16.05135944248135
+2023-08-14,East,Ohio,Alice,Delta,Furniture,14,1258.68,173.17,New,Individual,Online,13.758064003559284
+2023-08-13,West,New York,Diana,Beta,Office Supplies,23,2255.07,695.23,Returning,Enterprise,Online,30.829641651922113
+2023-08-13,South,Florida,Bob,Beta,Office Supplies,39,2414.93,872.22,New,Enterprise,Retail,36.11781707958409
+2023-08-13,West,Georgia,Diana,Delta,Electronics,24,834.93,299.72,New,Individual,Online,35.89762015977388
+2023-08-12,North,Illinois,Charlie,Alpha,Furniture,27,2188.69,445.38,New,Enterprise,Online,20.349158629134322
+2023-08-12,North,Illinois,Diana,Epsilon,Furniture,37,2913.92,1162.8,Returning,Individual,Online,39.90500768723918
+2023-08-11,North,Ohio,Bob,Epsilon,Furniture,27,680.09,168.56,New,Individual,Online,24.78495493243541
+2023-08-10,South,California,Bob,Alpha,Office Supplies,18,1385.8,393.49,Returning,Enterprise,Online,28.394429210564297
+2023-08-10,East,Illinois,Alice,Epsilon,Office Supplies,5,331.1,45.25,Returning,Individual,Online,13.666565992147387
+2023-08-10,East,Ohio,Alice,Beta,Electronics,11,411.44,81.23,New,Individual,Online,19.742854365156525
+2023-08-09,East,New York,Charlie,Beta,Electronics,31,2646.99,826.92,Returning,SMB,Retail,31.24001224031825
+2023-08-09,East,Florida,Charlie,Gamma,Furniture,43,2413.4,761.96,New,Individual,Online,31.57205602055192
+2023-08-09,South,North Carolina,Charlie,Epsilon,Office Supplies,2,101.24,37.98,Returning,Enterprise,Retail,37.514816278150924
+2023-08-07,South,North Carolina,Charlie,Gamma,Electronics,13,1060.72,108.74,New,Enterprise,Online,10.251527264499584
+2023-08-07,East,Ohio,Diana,Delta,Furniture,20,630.59,210.87,Returning,Enterprise,Retail,33.440111641478616
+2023-08-06,East,Michigan,Alice,Epsilon,Electronics,41,2759.07,391.92,New,Enterprise,Online,14.204786395415848
+2023-08-06,West,Illinois,Diana,Beta,Furniture,3,257.69,74.14,Returning,Enterprise,Retail,28.771003919438087
+2023-08-06,North,Florida,Bob,Delta,Electronics,10,697.88,179.12,New,Enterprise,Online,25.66630366252078
+2023-08-05,North,North Carolina,Alice,Alpha,Office Supplies,39,1634.45,379.5,New,Individual,Online,23.218819786472515
+2023-08-04,West,Texas,Bob,Epsilon,Office Supplies,18,1266.01,495.37,Returning,SMB,Online,39.128442903294605
+2023-08-03,West,Michigan,Alice,Beta,Electronics,45,3446.28,1341.43,New,SMB,Online,38.923999210743176
+2023-08-03,East,Florida,Charlie,Alpha,Office Supplies,10,397.91,81.06,New,SMB,Online,20.37144077806539
+2023-08-03,West,North Carolina,Charlie,Alpha,Office Supplies,11,310.61,65.12,Returning,Enterprise,Retail,20.96519751456811
+2023-08-02,North,New York,Alice,Epsilon,Electronics,4,390.89,93.41,Returning,Individual,Online,23.896748445854332
+2023-08-02,North,North Carolina,Charlie,Gamma,Office Supplies,43,3534.35,1208.15,New,SMB,Retail,34.18308882821452
+2023-08-02,West,Pennsylvania,Alice,Epsilon,Office Supplies,5,477.19,144.01,Returning,Individual,Online,30.178754793688046
+2023-08-01,North,Ohio,Diana,Alpha,Electronics,42,1701.83,326.49,Returning,Enterprise,Retail,19.18464241434221
+2023-08-01,East,Georgia,Diana,Epsilon,Furniture,7,677.03,100.23,New,Enterprise,Online,14.80436612853197
+2023-07-31,East,New York,Diana,Beta,Office Supplies,32,1377.19,348.91,New,SMB,Online,25.334921107472464
+2023-07-31,West,Ohio,Diana,Beta,Electronics,30,1130.04,403.08,New,Individual,Retail,35.66953382181162
+2023-07-30,South,North Carolina,Diana,Delta,Electronics,19,1231.73,125.49,Returning,SMB,Retail,10.188109407094087
+2023-07-30,West,North Carolina,Charlie,Gamma,Office Supplies,43,995.72,308.19,New,SMB,Online,30.951472301450206
+2023-07-30,South,Florida,Alice,Epsilon,Office Supplies,5,362.2,67.92,New,SMB,Retail,18.752070679182772
+2023-07-29,North,California,Alice,Epsilon,Office Supplies,48,1915.12,202.22,Returning,SMB,Online,10.55912945402899
+2023-07-29,North,Michigan,Bob,Gamma,Electronics,35,1263.94,210.73,Returning,Enterprise,Retail,16.672468629840022
+2023-07-29,East,California,Diana,Gamma,Office Supplies,19,1353.2,413.42,New,SMB,Online,30.551285840969555
+2023-07-27,East,California,Bob,Beta,Office Supplies,24,2392.52,863.94,Returning,Individual,Online,36.11004296724792
+2023-07-26,North,California,Bob,Alpha,Electronics,40,3913.54,824.89,New,Enterprise,Retail,21.07784767755025
+2023-07-25,West,New York,Bob,Delta,Furniture,24,1589.92,273.76,New,Individual,Online,17.218476401328367
+2023-07-24,East,Pennsylvania,Alice,Epsilon,Furniture,22,1642.16,284.08,New,SMB,Online,17.299166950845226
+2023-07-24,West,Texas,Diana,Alpha,Furniture,27,1310.61,355.51,Returning,Individual,Online,27.12553696370393
+2023-07-23,South,Illinois,Diana,Alpha,Office Supplies,22,1412.65,350.45,Returning,SMB,Retail,24.80798499274413
+2023-07-23,East,North Carolina,Charlie,Epsilon,Furniture,35,2638.19,733.02,New,SMB,Online,27.784958626937406
+2023-07-23,South,Texas,Diana,Delta,Furniture,24,1433.39,388.11,New,Individual,Online,27.07637139927026
+2023-07-23,East,California,Diana,Alpha,Office Supplies,39,3280.67,989.58,New,Individual,Retail,30.1639604105259
+2023-07-22,South,California,Bob,Beta,Electronics,21,2084.55,509.23,Returning,Individual,Online,24.42877359621981
+2023-07-21,East,Georgia,Bob,Gamma,Furniture,49,4752.5,1150.05,New,Individual,Retail,24.198842714360865
+2023-07-21,West,Illinois,Alice,Beta,Office Supplies,45,1579.52,555.59,New,Enterprise,Online,35.17461000810373
+2023-07-21,South,Florida,Diana,Alpha,Office Supplies,28,2653.37,530.91,Returning,Enterprise,Retail,20.008894349449942
+2023-07-20,North,North Carolina,Alice,Gamma,Furniture,1,40.73,14.99,New,Individual,Retail,36.80333906211638
+2023-07-20,North,Pennsylvania,Bob,Beta,Furniture,34,2190.66,283.51,New,SMB,Online,12.941761843462702
+2023-07-20,East,North Carolina,Charlie,Alpha,Electronics,32,2752.71,877.39,New,Enterprise,Online,31.873680845421422
+2023-07-18,East,California,Alice,Gamma,Furniture,37,3615.17,787.35,Returning,Individual,Online,21.77905879944788
+2023-07-18,North,New York,Alice,Epsilon,Furniture,15,1116.57,183.54,Returning,Individual,Online,16.43784088771864
+2023-07-17,West,Georgia,Diana,Alpha,Electronics,26,2540.03,848.4,New,Individual,Online,33.40118030102006
+2023-07-17,East,Florida,Alice,Delta,Furniture,4,195.72,52.09,New,Enterprise,Online,26.61455139995913
+2023-07-17,North,North Carolina,Alice,Delta,Electronics,28,1592.39,402.27,New,Enterprise,Retail,25.26202751838431
+2023-07-17,East,Michigan,Diana,Delta,Electronics,14,947.3,139.52,Returning,Enterprise,Retail,14.728174812625358
+2023-07-16,North,California,Bob,Epsilon,Furniture,46,3242.16,754.6,Returning,SMB,Retail,23.274607052088733
+2023-07-16,West,North Carolina,Bob,Delta,Electronics,21,597.45,151.92,Returning,SMB,Retail,25.428069294501626
+2023-07-16,East,Georgia,Bob,Alpha,Furniture,16,346.52,108.59,New,Enterprise,Online,31.33729654853977
+2023-07-16,South,New York,Alice,Epsilon,Office Supplies,45,3827.44,760.15,New,Individual,Online,19.860533411366344
+2023-07-16,South,Illinois,Alice,Delta,Electronics,8,417.21,110.01,New,Enterprise,Retail,26.36801610699648
+2023-07-16,West,Pennsylvania,Charlie,Beta,Office Supplies,3,255.12,68.5,Returning,SMB,Retail,26.850109752273436
+2023-07-15,North,Michigan,Diana,Alpha,Office Supplies,28,1026.13,191.48,New,SMB,Retail,18.660403652558642
+2023-07-14,West,Ohio,Bob,Gamma,Office Supplies,1,84.78,29.21,New,Enterprise,Retail,34.45388063222458
+2023-07-14,South,Illinois,Alice,Alpha,Furniture,41,1949.05,656.82,New,Individual,Online,33.69949462558683
+2023-07-13,North,California,Charlie,Epsilon,Electronics,8,650.62,172.94,New,Individual,Online,26.580799852448433
+2023-07-13,West,California,Charlie,Beta,Office Supplies,40,1783.13,261.66,New,Individual,Online,14.674196497170705
+2023-07-13,South,Pennsylvania,Diana,Epsilon,Electronics,1,74.86,25.98,New,Individual,Retail,34.704782260219076
+2023-07-13,East,Florida,Diana,Alpha,Furniture,11,485.41,59.75,New,Individual,Online,12.309181928678848
+2023-07-12,East,California,Alice,Gamma,Furniture,38,2842.3,613.44,New,SMB,Retail,21.582521197621645
+2023-07-12,South,Pennsylvania,Charlie,Gamma,Office Supplies,35,2090.34,482.82,Returning,Enterprise,Retail,23.09767788972129
+2023-07-11,East,Illinois,Alice,Beta,Furniture,10,996.21,303.09,New,SMB,Retail,30.424308127804373
+2023-07-11,North,Georgia,Alice,Epsilon,Office Supplies,47,3027.71,929.35,Returning,SMB,Retail,30.694815553669276
+2023-07-11,West,Texas,Bob,Gamma,Furniture,4,264.63,78.75,Returning,Enterprise,Retail,29.75853077882326
+2023-07-11,East,North Carolina,Alice,Alpha,Electronics,47,3360.26,1134.04,New,Enterprise,Online,33.74857897900757
+2023-07-11,North,Georgia,Charlie,Delta,Electronics,33,1173.66,210.73,New,SMB,Retail,17.95494436208101
+2023-07-10,West,Illinois,Bob,Gamma,Electronics,48,3557.35,1349.8,New,Enterprise,Retail,37.94397515004147
+2023-07-10,North,North Carolina,Alice,Alpha,Electronics,30,2388.97,864.04,New,Enterprise,Online,36.16788825309653
+2023-07-10,South,Texas,Charlie,Delta,Electronics,46,2629.61,426.58,Returning,Enterprise,Retail,16.222177433155487
+2023-07-10,West,North Carolina,Diana,Beta,Office Supplies,6,140.64,51.63,New,Individual,Retail,36.710750853242324
+2023-07-09,East,Michigan,Diana,Epsilon,Furniture,5,386.52,96.76,Returning,Individual,Retail,25.033633447169617
+2023-07-09,South,Ohio,Diana,Gamma,Furniture,44,4158.8,484.34,Returning,Individual,Online,11.646147927286716
+2023-07-09,North,Georgia,Alice,Epsilon,Office Supplies,33,1780.38,536.75,Returning,Enterprise,Online,30.148058279693096
+2023-07-09,East,North Carolina,Bob,Epsilon,Furniture,31,2582.16,298.94,New,Enterprise,Retail,11.57712922514484
+2023-07-08,West,Ohio,Alice,Gamma,Electronics,5,465.89,153.56,Returning,Enterprise,Online,32.960570091652535
+2023-07-07,North,Pennsylvania,Bob,Alpha,Furniture,13,1129.24,143.37,Returning,SMB,Retail,12.696149622755126
+2023-07-07,East,Pennsylvania,Diana,Delta,Office Supplies,40,1546.26,193.68,Returning,SMB,Retail,12.52570719025261
+2023-07-07,North,North Carolina,Alice,Alpha,Electronics,7,490.86,173.78,Returning,SMB,Retail,35.40316994662429
+2023-07-06,North,Texas,Charlie,Gamma,Office Supplies,6,140.39,18.07,New,Individual,Online,12.871287128712872
+2023-07-05,West,Texas,Charlie,Delta,Office Supplies,4,359.25,105.96,New,Individual,Online,29.494780793319414
+2023-07-05,East,New York,Bob,Gamma,Electronics,2,94.72,29.77,New,Enterprise,Online,31.429476351351347
+2023-07-05,North,Ohio,Diana,Gamma,Office Supplies,44,3600.66,399.33,Returning,Enterprise,Retail,11.09046674776291
+2023-07-03,North,Florida,Charlie,Epsilon,Electronics,8,498.13,131.1,Returning,SMB,Online,26.3184309316845
+2023-07-03,East,Florida,Alice,Gamma,Office Supplies,10,321.44,40.19,Returning,Individual,Online,12.50311100049776
+2023-07-03,South,Ohio,Alice,Gamma,Furniture,9,898.07,162.36,Returning,Enterprise,Online,18.078768915563376
+2023-07-02,South,Pennsylvania,Diana,Alpha,Furniture,43,2509.08,983.24,Returning,SMB,Online,39.187271828718096
+2023-07-01,East,Texas,Charlie,Delta,Electronics,37,858.54,267.17,Returning,Individual,Online,31.1191091853612
+2023-07-01,South,Georgia,Charlie,Delta,Office Supplies,17,1547.71,360.67,New,Enterprise,Retail,23.303461242739274
+2023-06-30,East,New York,Diana,Beta,Electronics,19,660.39,155.81,New,Enterprise,Retail,23.593634064719332
+2023-06-30,East,California,Bob,Epsilon,Furniture,38,2295.94,639.49,New,Individual,Online,27.85307978431492
+2023-06-30,East,Michigan,Bob,Delta,Office Supplies,15,1374.07,449.75,New,Enterprise,Online,32.73122912224268
+2023-06-30,South,Illinois,Bob,Gamma,Furniture,22,1202.61,378.09,Returning,SMB,Retail,31.439119914186648
+2023-06-29,East,Michigan,Charlie,Epsilon,Electronics,18,1420.19,545.92,Returning,SMB,Online,38.43992705201416
+2023-06-29,East,Texas,Diana,Alpha,Electronics,4,315.14,38.59,Returning,SMB,Retail,12.24535127245034
+2023-06-28,West,California,Bob,Gamma,Furniture,20,714.12,165.64,Returning,SMB,Online,23.194981235646665
+2023-06-28,West,California,Bob,Delta,Electronics,18,747.43,227.25,Returning,SMB,Online,30.404185007291655
+2023-06-27,South,Michigan,Alice,Alpha,Office Supplies,9,740.37,213.1,Returning,Enterprise,Retail,28.782905844375108
+2023-06-27,East,Michigan,Diana,Alpha,Office Supplies,39,1303.2,287.83,Returning,Enterprise,Online,22.086402701043582
+2023-06-27,North,Ohio,Charlie,Delta,Electronics,43,2635.98,341.08,Returning,Individual,Retail,12.939400147193833
+2023-06-26,West,Georgia,Bob,Alpha,Electronics,19,1811.67,372.23,Returning,Enterprise,Retail,20.546236345471307
+2023-06-26,West,Illinois,Alice,Beta,Electronics,11,417.15,52.57,Returning,Enterprise,Retail,12.602181469495385
+2023-06-26,South,Illinois,Alice,Gamma,Electronics,27,1467.04,556.54,New,SMB,Online,37.93625259024975
+2023-06-25,North,Ohio,Charlie,Gamma,Furniture,13,1058.03,420.97,Returning,SMB,Retail,39.78809674583897
+2023-06-25,South,Michigan,Bob,Epsilon,Furniture,32,2038.3,800.26,New,Enterprise,Retail,39.26114899671295
+2023-06-23,North,Texas,Bob,Epsilon,Furniture,5,417.29,163.57,Returning,Individual,Retail,39.19815955330825
+2023-06-23,East,North Carolina,Diana,Epsilon,Office Supplies,14,353.56,137.22,Returning,SMB,Retail,38.81095146509786
+2023-06-23,East,Michigan,Diana,Gamma,Furniture,4,131.31,44.1,Returning,Enterprise,Retail,33.58464701850583
+2023-06-23,East,Michigan,Bob,Epsilon,Electronics,5,301.81,55.56,New,SMB,Online,18.408932772273946
+2023-06-23,North,North Carolina,Alice,Gamma,Furniture,35,3251.35,1112.16,Returning,SMB,Online,34.20609900502868
+2023-06-22,North,New York,Alice,Beta,Electronics,36,2237.71,322.16,New,Enterprise,Retail,14.396861076725761
+2023-06-22,East,Georgia,Charlie,Epsilon,Office Supplies,30,1182.55,354.98,New,SMB,Online,30.01818104942709
+2023-06-21,South,Illinois,Alice,Alpha,Furniture,9,713.38,96.28,New,Individual,Online,13.496313325296477
+2023-06-20,South,California,Diana,Epsilon,Electronics,19,569.58,218.88,New,SMB,Online,38.42831560096913
+2023-06-20,North,Pennsylvania,Charlie,Gamma,Electronics,7,374.29,81.65,Returning,Enterprise,Retail,21.814635710278125
+2023-06-20,North,Illinois,Charlie,Gamma,Office Supplies,30,1875.08,369.71,New,SMB,Retail,19.717025406915972
+2023-06-20,West,North Carolina,Alice,Beta,Furniture,50,1195.07,268.88,Returning,Enterprise,Online,22.499100471102114
+2023-06-19,East,Michigan,Diana,Beta,Furniture,42,2673.78,991.81,New,Individual,Retail,37.09392694986124
+2023-06-18,West,California,Diana,Alpha,Furniture,45,4027.27,1208.8,Returning,SMB,Retail,30.015370213568993
+2023-06-18,East,North Carolina,Diana,Alpha,Electronics,21,1797.85,401.83,Returning,SMB,Online,22.350585421475653
+2023-06-17,North,Georgia,Bob,Beta,Electronics,25,1134.37,402.07,New,Individual,Retail,35.44434355633524
+2023-06-17,West,Pennsylvania,Diana,Epsilon,Office Supplies,13,732.75,224.51,New,SMB,Online,30.639372227908563
+2023-06-16,West,Michigan,Diana,Beta,Office Supplies,14,653.42,108.28,New,Individual,Online,16.571271157907624
+2023-06-16,East,California,Bob,Delta,Electronics,13,764.57,171.71,Returning,SMB,Retail,22.458375295917968
+2023-06-15,South,Ohio,Alice,Epsilon,Electronics,29,909.54,101.92,Returning,Individual,Retail,11.20566440178552
+2023-06-15,West,New York,Charlie,Gamma,Office Supplies,48,3044.23,333.08,New,Individual,Retail,10.94135462826396
+2023-06-15,South,Ohio,Charlie,Alpha,Electronics,47,1938.55,660.29,New,Enterprise,Retail,34.06102499290707
+2023-06-15,East,Texas,Diana,Gamma,Office Supplies,40,981.31,216.8,Returning,Individual,Retail,22.092916611468347
+2023-06-14,West,Florida,Bob,Alpha,Electronics,43,3377.02,1166.04,Returning,Individual,Online,34.52866728654257
+2023-06-14,West,Michigan,Alice,Gamma,Office Supplies,7,491.52,58.49,New,SMB,Online,11.899820963541668
+2023-06-13,North,Michigan,Alice,Alpha,Furniture,1,44.92,6.33,New,Enterprise,Retail,14.091718610863758
+2023-06-13,East,Illinois,Diana,Delta,Office Supplies,37,2194.26,727.42,Returning,Enterprise,Online,33.15103953041116
+2023-06-13,East,Illinois,Diana,Beta,Office Supplies,4,326.26,33.38,New,Individual,Retail,10.231104027462761
+2023-06-13,East,New York,Diana,Gamma,Office Supplies,46,2045.54,528.36,New,SMB,Online,25.829854219423726
+2023-06-12,West,Michigan,Charlie,Delta,Furniture,41,3081.79,336.24,New,Enterprise,Online,10.910542249796384
+2023-06-12,North,Pennsylvania,Alice,Delta,Electronics,20,1039.42,150.93,Returning,Individual,Online,14.520598025822093
+2023-06-11,West,Ohio,Diana,Alpha,Office Supplies,26,1527.24,426.64,Returning,Individual,Online,27.93536051963018
+2023-06-11,South,Texas,Diana,Epsilon,Office Supplies,42,1357.99,441.48,Returning,SMB,Retail,32.50981229611411
+2023-06-11,East,Pennsylvania,Charlie,Gamma,Office Supplies,30,681.5,268.43,New,Individual,Retail,39.388114453411596
+2023-06-10,West,Michigan,Bob,Delta,Electronics,6,159.16,39.45,Returning,Enterprise,Online,24.78637848705705
+2023-06-09,North,North Carolina,Alice,Epsilon,Office Supplies,25,1016.34,192.36,Returning,Enterprise,Retail,18.926737115532205
+2023-06-09,South,Illinois,Charlie,Epsilon,Electronics,18,685.75,151,New,Enterprise,Online,22.019686474662777
+2023-06-08,North,Illinois,Diana,Alpha,Office Supplies,18,502.63,148.08,New,Enterprise,Online,29.461034956130757
+2023-06-08,South,Michigan,Diana,Alpha,Office Supplies,13,1111.87,415.25,New,Enterprise,Online,37.34699200446096
+2023-06-08,East,Ohio,Alice,Gamma,Electronics,41,1903.77,313.57,Returning,Enterprise,Online,16.47100227443441
+2023-06-08,North,Georgia,Charlie,Delta,Furniture,10,836.29,272.22,Returning,Individual,Online,32.55090937354267
+2023-06-07,South,Michigan,Alice,Alpha,Furniture,39,2404.35,323.86,New,SMB,Retail,13.469752739825733
+2023-06-07,East,North Carolina,Bob,Beta,Office Supplies,24,1705.39,551.01,Returning,Individual,Retail,32.30991151584095
+2023-06-06,North,Michigan,Diana,Gamma,Office Supplies,10,444.67,139.94,New,Enterprise,Online,31.470528706681357
+2023-06-06,East,Pennsylvania,Charlie,Beta,Electronics,26,1066.89,255.45,New,Individual,Retail,23.943424345527653
+2023-06-05,West,Illinois,Diana,Beta,Electronics,45,3167.19,647.12,Returning,Enterprise,Retail,20.431991765571375
+2023-06-05,North,Georgia,Charlie,Alpha,Office Supplies,14,465.91,164.7,Returning,Enterprise,Online,35.350174926487945
+2023-06-05,South,Pennsylvania,Diana,Delta,Furniture,11,607.06,224.25,Returning,Individual,Retail,36.94033538694693
+2023-06-05,East,Michigan,Alice,Beta,Furniture,38,3568.81,842.1,Returning,Individual,Online,23.596100661004648
+2023-06-05,North,Texas,Bob,Gamma,Office Supplies,11,256.75,102.28,Returning,SMB,Retail,39.83641674780915
+2023-06-04,West,North Carolina,Charlie,Beta,Office Supplies,42,1330.34,276.89,Returning,Individual,Retail,20.813476254190657
+2023-06-04,East,Ohio,Bob,Beta,Office Supplies,48,1222.39,376.89,New,Individual,Retail,30.83222212223594
+2023-06-03,East,Ohio,Alice,Epsilon,Office Supplies,23,1415.21,490.37,New,Enterprise,Retail,34.6499812748638
+2023-06-03,South,Illinois,Charlie,Beta,Office Supplies,30,1464.97,333.57,Returning,Enterprise,Online,22.76974955118535
+2023-06-02,North,North Carolina,Bob,Alpha,Furniture,15,1437.98,265.19,New,SMB,Retail,18.441842028400952
+2023-06-02,North,Georgia,Charlie,Gamma,Electronics,40,1332.36,256.7,New,Enterprise,Online,19.26656459215227
+2023-06-02,South,Georgia,Charlie,Delta,Furniture,38,1369.55,341.34,Returning,Enterprise,Retail,24.923515023182794
+2023-06-02,South,Illinois,Bob,Delta,Furniture,10,256.84,53.17,Returning,SMB,Online,20.701604111509113
+2023-06-01,South,Pennsylvania,Alice,Epsilon,Furniture,49,1762.84,620.5,Returning,SMB,Retail,35.19888361961381
+2023-06-01,West,Illinois,Charlie,Epsilon,Electronics,10,349.54,36.67,New,Enterprise,Retail,10.49093093780397
+2023-06-01,South,North Carolina,Alice,Alpha,Electronics,19,1219.23,397.44,Returning,Enterprise,Online,32.59762308998302
+2023-06-01,West,Pennsylvania,Diana,Alpha,Furniture,49,2767.18,874.5,New,SMB,Online,31.60257012554297
+2023-06-01,South,Florida,Charlie,Delta,Office Supplies,7,624.74,187.39,New,Enterprise,Retail,29.99487786919358
+2023-06-01,North,Georgia,Charlie,Alpha,Electronics,27,1936.97,703.05,New,Enterprise,Retail,36.296380429227085
+2023-06-01,West,Texas,Bob,Gamma,Office Supplies,8,550.82,117.81,New,SMB,Online,21.38811226898079
+2023-05-31,East,Florida,Diana,Delta,Furniture,24,1483.04,357.63,New,Enterprise,Online,24.114656381486675
+2023-05-31,West,Ohio,Charlie,Epsilon,Electronics,38,1324.3,478.33,New,Enterprise,Retail,36.11945933700823
+2023-05-30,North,Florida,Alice,Alpha,Furniture,33,1581.05,404.91,New,Enterprise,Online,25.61019575598495
+2023-05-30,South,Florida,Bob,Gamma,Furniture,35,3440.14,520.32,New,SMB,Retail,15.12496584441331
+2023-05-30,South,North Carolina,Alice,Gamma,Electronics,8,227,65.39,New,Enterprise,Retail,28.806167400881055
+2023-05-29,South,Texas,Diana,Gamma,Electronics,38,2225.04,607.51,New,Enterprise,Retail,27.303329378348256
+2023-05-29,South,Michigan,Charlie,Delta,Electronics,28,2566.88,564.12,Returning,Individual,Online,21.97687464937979
+2023-05-29,South,Pennsylvania,Diana,Epsilon,Office Supplies,26,2401.87,267.23,New,Enterprise,Retail,11.125914391703134
+2023-05-28,North,Pennsylvania,Diana,Gamma,Electronics,38,1061.1,221.38,New,Individual,Online,20.86325511261898
+2023-05-28,East,New York,Charlie,Delta,Office Supplies,24,2156.41,608.58,New,Individual,Online,28.221905852783102
+2023-05-28,East,Ohio,Bob,Gamma,Electronics,6,581.01,133.96,Returning,Individual,Retail,23.05640178310184
+2023-05-28,North,New York,Charlie,Epsilon,Office Supplies,20,427.63,115.64,Returning,SMB,Retail,27.042069078408904
+2023-05-28,North,California,Bob,Alpha,Electronics,4,196.63,22.64,New,Enterprise,Retail,11.514011086812797
+2023-05-27,North,Ohio,Charlie,Alpha,Office Supplies,35,2990,643.01,Returning,Enterprise,Online,21.505351170568563
+2023-05-27,South,Georgia,Charlie,Alpha,Electronics,26,2325.41,390.46,New,Individual,Online,16.791017497989603
+2023-05-26,East,Texas,Diana,Delta,Furniture,10,358.63,112.26,New,Enterprise,Online,31.302456570839027
+2023-05-25,West,Georgia,Bob,Alpha,Office Supplies,4,321.21,50.47,New,Individual,Retail,15.712462252109214
+2023-05-25,South,North Carolina,Bob,Alpha,Electronics,9,478.03,78.02,Returning,Individual,Online,16.32115139217204
+2023-05-25,North,Pennsylvania,Bob,Alpha,Office Supplies,45,2037.99,558.66,New,SMB,Online,27.41230329883856
+2023-05-24,East,California,Diana,Alpha,Electronics,34,731.46,77.93,Returning,Individual,Online,10.654034396959506
+2023-05-23,North,Pennsylvania,Bob,Beta,Office Supplies,32,2720.96,835.52,Returning,SMB,Online,30.706809361401856
+2023-05-22,South,Texas,Charlie,Beta,Office Supplies,47,1319.18,283.54,New,Individual,Retail,21.493655149410998
+2023-05-22,East,California,Bob,Beta,Electronics,19,1682.75,181.42,Returning,Individual,Retail,10.78116178873867
+2023-05-22,East,Illinois,Charlie,Beta,Furniture,47,2634.32,553.44,Returning,Enterprise,Retail,21.008837195177506
+2023-05-21,East,New York,Diana,Gamma,Electronics,39,2226.34,309.67,Returning,Individual,Retail,13.909375926408366
+2023-05-21,West,North Carolina,Diana,Gamma,Electronics,15,573.5,153.22,Returning,Individual,Retail,26.716652136006974
+2023-05-21,West,Pennsylvania,Alice,Gamma,Electronics,28,1334.35,434.62,Returning,SMB,Online,32.57166410611909
+2023-05-20,North,Ohio,Bob,Delta,Electronics,23,504.64,112.39,New,SMB,Online,22.271322130627773
+2023-05-20,South,Illinois,Alice,Beta,Electronics,26,1296.8,392.26,Returning,SMB,Online,30.248303516347935
+2023-05-20,South,Texas,Alice,Delta,Electronics,40,1378.96,354.95,Returning,Enterprise,Retail,25.74041306491849
+2023-05-20,East,California,Bob,Gamma,Office Supplies,4,368.86,88.52,Returning,Individual,Online,23.998264924361546
+2023-05-20,North,Georgia,Diana,Delta,Furniture,49,2221.32,598.46,New,Individual,Retail,26.941638305151894
+2023-05-20,North,California,Bob,Alpha,Electronics,23,858.88,158.44,Returning,SMB,Online,18.447280178837556
+2023-05-20,North,Texas,Charlie,Delta,Office Supplies,43,2195.37,325.05,Returning,Enterprise,Retail,14.806160237226528
+2023-05-20,East,Illinois,Charlie,Epsilon,Furniture,42,2454.56,386.98,Returning,Individual,Online,15.76575842513526
+2023-05-20,West,New York,Alice,Beta,Electronics,12,532.25,181.01,Returning,SMB,Retail,34.00845467355566
+2023-05-19,North,New York,Alice,Gamma,Office Supplies,28,806.19,317.66,Returning,SMB,Online,39.402622210645134
+2023-05-19,West,California,Alice,Gamma,Furniture,36,2588.64,774.54,Returning,Enterprise,Online,29.920730576673467
+2023-05-18,North,Michigan,Bob,Delta,Electronics,28,1138.02,189.75,New,Individual,Online,16.673696420098068
+2023-05-18,North,Florida,Diana,Beta,Electronics,11,921.73,177.28,New,SMB,Retail,19.233398066678962
+2023-05-18,East,Texas,Diana,Epsilon,Electronics,14,923.71,364.91,New,SMB,Online,39.504822942265434
+2023-05-18,East,Michigan,Alice,Alpha,Furniture,26,1605.28,164.26,New,Enterprise,Online,10.232482806737766
+2023-05-17,South,California,Bob,Epsilon,Office Supplies,43,2271.75,593.54,Returning,SMB,Online,26.126994607681304
+2023-05-17,West,New York,Alice,Epsilon,Office Supplies,29,1082.96,431.72,Returning,Enterprise,Online,39.8648149516141
+2023-05-17,West,California,Alice,Beta,Electronics,1,62.35,10.66,New,SMB,Retail,17.09703287890938
+2023-05-17,South,Ohio,Alice,Epsilon,Office Supplies,39,962.77,207.88,New,Enterprise,Retail,21.5918651391298
+2023-05-16,East,Michigan,Bob,Delta,Furniture,29,1901.33,638.88,New,Individual,Retail,33.601741938537764
+2023-05-16,East,Florida,Charlie,Beta,Office Supplies,2,88.2,12.7,New,SMB,Online,14.39909297052154
+2023-05-16,East,New York,Alice,Epsilon,Electronics,13,863.3,320.39,New,Enterprise,Online,37.11224371597359
+2023-05-15,East,New York,Alice,Delta,Electronics,39,3744.56,710.39,Returning,Enterprise,Online,18.971254299570578
+2023-05-15,East,New York,Charlie,Alpha,Electronics,24,1945.85,387.87,Returning,Individual,Retail,19.933191150397
+2023-05-15,East,Illinois,Alice,Alpha,Electronics,22,2162.77,558.51,New,Individual,Online,25.82382777641635
+2023-05-15,South,North Carolina,Bob,Delta,Furniture,7,542.88,61.65,New,Individual,Online,11.356100795755967
+2023-05-14,North,Florida,Diana,Gamma,Furniture,10,240.19,55.09,New,Enterprise,Online,22.936008992880637
+2023-05-14,South,Pennsylvania,Alice,Delta,Office Supplies,14,1284.4,134.31,Returning,Individual,Retail,10.45702273435067
+2023-05-14,East,New York,Charlie,Alpha,Office Supplies,31,1220.96,174.5,New,Individual,Retail,14.292032499017166
+2023-05-13,East,Ohio,Charlie,Alpha,Electronics,46,932.14,276.82,New,Individual,Online,29.697255777029202
+2023-05-13,West,Illinois,Diana,Epsilon,Office Supplies,21,713.32,164.03,Returning,Individual,Retail,22.995289631581898
+2023-05-12,North,Texas,Alice,Delta,Office Supplies,41,2562.4,958.02,New,Individual,Retail,37.387605369965655
+2023-05-11,North,Texas,Bob,Epsilon,Furniture,11,658.64,171.17,New,SMB,Retail,25.988400340094742
+2023-05-10,South,Georgia,Alice,Gamma,Office Supplies,10,504.83,74.82,New,SMB,Retail,14.82083077471624
+2023-05-10,South,Florida,Diana,Beta,Office Supplies,43,1631.12,329.85,New,Individual,Retail,20.222301240865175
+2023-05-08,West,North Carolina,Bob,Gamma,Office Supplies,13,1002.66,197.21,Returning,Enterprise,Retail,19.66868130772146
+2023-05-08,South,Texas,Alice,Delta,Furniture,3,201.3,69.7,New,Enterprise,Online,34.62493790362643
+2023-05-07,West,Illinois,Alice,Epsilon,Furniture,29,2433.94,642.98,Returning,SMB,Online,26.417249398095272
+2023-05-06,East,New York,Alice,Alpha,Furniture,19,1198.66,265.29,New,SMB,Online,22.132214305975005
+2023-05-06,East,Ohio,Charlie,Alpha,Electronics,26,1319.38,348.57,New,Enterprise,Retail,26.41922721278176
+2023-05-06,South,Pennsylvania,Charlie,Epsilon,Office Supplies,39,2977.16,986.54,New,SMB,Retail,33.13694930739363
+2023-05-06,North,Illinois,Bob,Gamma,Furniture,15,1383.39,293.8,Returning,Individual,Retail,21.237684239440792
+2023-05-05,South,New York,Alice,Gamma,Office Supplies,1,33.64,10.49,New,Individual,Online,31.183115338882285
+2023-05-05,West,Georgia,Diana,Delta,Furniture,19,1195.6,433,Returning,Enterprise,Online,36.21612579458013
+2023-05-05,South,New York,Bob,Beta,Office Supplies,1,31.57,8.63,New,Enterprise,Retail,27.336078555590753
+2023-05-04,East,California,Diana,Alpha,Office Supplies,48,2539.43,744.36,Returning,SMB,Retail,29.312089720921623
+2023-05-04,East,California,Diana,Beta,Office Supplies,15,1095.92,191.11,New,Enterprise,Online,17.43831666545003
+2023-05-03,North,New York,Alice,Beta,Furniture,44,4026.29,495.17,Returning,Enterprise,Retail,12.298418643465821
+2023-05-02,West,Pennsylvania,Diana,Delta,Office Supplies,22,1473.97,453.69,Returning,Enterprise,Online,30.780137994667463
+2023-05-02,West,Illinois,Alice,Gamma,Electronics,16,623.87,127.05,Returning,SMB,Retail,20.364819593825636
+2023-05-02,North,New York,Alice,Beta,Office Supplies,7,424.47,61.81,New,SMB,Retail,14.561688694136215
+2023-05-01,East,California,Charlie,Delta,Office Supplies,11,236.7,70.21,New,SMB,Online,29.662019433882552
+2023-05-01,East,Florida,Alice,Delta,Furniture,33,815.65,226.34,Returning,Individual,Retail,27.74964752038252
+2023-05-01,South,Michigan,Alice,Alpha,Office Supplies,14,742.1,197.8,New,SMB,Online,26.654089745317343
+2023-05-01,East,North Carolina,Bob,Alpha,Office Supplies,18,716.21,126.85,New,SMB,Retail,17.711285796065397
+2023-04-30,East,Michigan,Diana,Epsilon,Furniture,16,442.69,126.54,New,Individual,Retail,28.58433666900088
+2023-04-30,North,Pennsylvania,Alice,Delta,Office Supplies,37,2385.07,254.91,Returning,Enterprise,Online,10.68773662827506
+2023-04-30,East,New York,Diana,Delta,Furniture,46,4349.75,590.88,New,Individual,Online,13.584228978676935
+2023-04-29,West,California,Diana,Gamma,Furniture,19,1839.99,320.61,New,SMB,Retail,17.42455122038707
+2023-04-29,North,California,Alice,Gamma,Electronics,13,640.84,68.4,Returning,SMB,Online,10.673491043006054
+2023-04-29,East,Florida,Diana,Epsilon,Office Supplies,29,2494.01,683.97,New,Enterprise,Online,27.42450912386077
+2023-04-29,East,Texas,Diana,Delta,Office Supplies,16,1018.94,321.22,New,Enterprise,Online,31.524918052093355
+2023-04-29,West,Illinois,Alice,Gamma,Electronics,40,3837.2,744.56,New,Individual,Online,19.40373188783488
+2023-04-28,South,California,Bob,Beta,Office Supplies,27,2188.32,782.95,Returning,SMB,Retail,35.778588140674124
+2023-04-28,South,Georgia,Alice,Beta,Office Supplies,7,614.04,147.8,New,SMB,Online,24.07009315354049
+2023-04-28,East,North Carolina,Bob,Delta,Furniture,49,4876.86,713.81,New,Enterprise,Retail,14.63667195695591
+2023-04-27,North,North Carolina,Diana,Epsilon,Office Supplies,15,827.25,161.41,Returning,Individual,Retail,19.511634935025686
+2023-04-27,West,California,Charlie,Epsilon,Electronics,32,2698.39,448.54,Returning,Individual,Online,16.622504530479286
+2023-04-26,North,New York,Diana,Alpha,Electronics,31,2514.24,551.9,New,SMB,Retail,21.95096729031437
+2023-04-26,West,North Carolina,Alice,Gamma,Electronics,30,828.2,252.51,New,SMB,Retail,30.489012315865732
+2023-04-25,North,Illinois,Charlie,Alpha,Furniture,35,3399.16,1247.21,New,Enterprise,Online,36.691712070040836
+2023-04-25,South,California,Bob,Delta,Furniture,34,2147.52,600.65,Returning,Individual,Retail,27.96947176277753
+2023-04-24,West,Illinois,Diana,Epsilon,Electronics,25,2286.9,542.43,New,Enterprise,Retail,23.719008264462808
+2023-04-24,North,Texas,Alice,Delta,Furniture,42,3043.66,788.9,New,Enterprise,Online,25.919452238423478
+2023-04-24,South,Texas,Diana,Epsilon,Electronics,16,1011.72,180.07,Returning,Enterprise,Retail,17.79840272012019
+2023-04-24,East,Georgia,Alice,Beta,Furniture,37,2119.5,526.77,New,Enterprise,Retail,24.853503184713375
+2023-04-23,East,Ohio,Bob,Epsilon,Furniture,29,842.44,177.87,Returning,Enterprise,Retail,21.11366981624804
+2023-04-22,South,Pennsylvania,Diana,Alpha,Furniture,20,583.1,79.45,New,Enterprise,Online,13.62545018007203
+2023-04-22,South,Florida,Diana,Gamma,Office Supplies,41,995.49,143.83,Returning,SMB,Online,14.44816120704377
+2023-04-22,South,Florida,Diana,Epsilon,Office Supplies,18,586.82,171.71,New,Enterprise,Online,29.261102211921887
+2023-04-21,North,North Carolina,Alice,Epsilon,Electronics,22,1065.87,212.92,Returning,Individual,Online,19.97616970174599
+2023-04-21,East,Pennsylvania,Charlie,Epsilon,Electronics,32,3146.54,408.66,Returning,Individual,Retail,12.987599077081494
+2023-04-21,West,North Carolina,Alice,Delta,Electronics,34,1624.19,498.66,New,SMB,Retail,30.70207303332738
+2023-04-21,West,Ohio,Alice,Beta,Electronics,22,2083.14,799.35,New,Individual,Online,38.37236095509663
+2023-04-21,East,Pennsylvania,Alice,Delta,Office Supplies,21,1175.55,171.34,Returning,Enterprise,Retail,14.575305176300457
+2023-04-21,East,New York,Alice,Epsilon,Office Supplies,48,1842.52,646.38,New,Enterprise,Retail,35.08130169550399
+2023-04-20,North,New York,Alice,Delta,Furniture,41,2539.55,942.51,New,Individual,Online,37.1132680986789
+2023-04-20,North,North Carolina,Diana,Beta,Furniture,15,1303.32,279.66,Returning,Individual,Online,21.457508516711172
+2023-04-20,South,Georgia,Charlie,Epsilon,Electronics,23,729.43,262.93,Returning,Individual,Online,36.04595368986743
+2023-04-20,South,Michigan,Diana,Gamma,Furniture,15,791.55,173.78,New,SMB,Online,21.95439327900954
+2023-04-20,South,Texas,Alice,Beta,Office Supplies,32,2182.85,223.36,New,Enterprise,Retail,10.232494216276887
+2023-04-19,East,California,Alice,Beta,Electronics,41,906.12,93.54,New,Enterprise,Online,10.323136008475698
+2023-04-19,South,Texas,Bob,Epsilon,Office Supplies,26,2386.31,337.18,New,Enterprise,Retail,14.12976520234169
+2023-04-18,North,Pennsylvania,Diana,Delta,Electronics,39,2605.19,691.67,New,SMB,Online,26.549695031840287
+2023-04-18,East,Pennsylvania,Charlie,Alpha,Office Supplies,11,483.61,184.09,Returning,SMB,Online,38.065796819751455
+2023-04-18,North,Ohio,Alice,Beta,Office Supplies,27,1225.23,446.89,Returning,Enterprise,Retail,36.473968152918225
+2023-04-17,North,Michigan,Diana,Delta,Furniture,11,803.65,245.2,New,Enterprise,Retail,30.510794500093326
+2023-04-16,South,North Carolina,Diana,Beta,Furniture,2,89.5,13.97,New,Enterprise,Online,15.608938547486034
+2023-04-16,East,Michigan,Bob,Epsilon,Electronics,32,1681.53,597.21,Returning,SMB,Online,35.51586947601292
+2023-04-16,South,Ohio,Alice,Alpha,Office Supplies,20,1150.53,452.23,Returning,SMB,Online,39.306232779675454
+2023-04-16,West,California,Charlie,Beta,Office Supplies,38,3436.5,633.46,Returning,Enterprise,Online,18.433289684271788
+2023-04-16,South,Georgia,Alice,Epsilon,Electronics,34,3349.41,960.5,Returning,SMB,Retail,28.676692312974527
+2023-04-14,North,Illinois,Diana,Alpha,Furniture,13,1023.98,345.54,Returning,Enterprise,Retail,33.744799703119206
+2023-04-14,East,New York,Charlie,Epsilon,Office Supplies,11,1000.95,361.14,New,Individual,Retail,36.07972426195115
+2023-04-13,East,New York,Alice,Epsilon,Office Supplies,12,950.91,260.97,Returning,SMB,Retail,27.444237625011837
+2023-04-13,South,New York,Alice,Alpha,Furniture,7,152.93,16.54,New,SMB,Online,10.815405741188778
+2023-04-13,West,Texas,Diana,Gamma,Office Supplies,28,2596.26,402.86,New,Enterprise,Retail,15.516935900102455
+2023-04-12,West,California,Diana,Delta,Furniture,37,2805.36,821.92,Returning,SMB,Online,29.298200587446882
+2023-04-12,East,North Carolina,Bob,Delta,Furniture,41,908.69,297.21,Returning,Individual,Retail,32.70752401809197
+2023-04-11,South,North Carolina,Charlie,Epsilon,Office Supplies,32,1804.51,677.51,Returning,Enterprise,Retail,37.54537242797213
+2023-04-10,West,North Carolina,Diana,Alpha,Electronics,34,3112.7,889.31,New,Enterprise,Retail,28.57037298808109
+2023-04-08,West,Illinois,Diana,Delta,Furniture,2,83.82,30.89,New,Individual,Online,36.8527797661656
+2023-04-08,East,Georgia,Bob,Delta,Electronics,22,1023.55,127.56,Returning,SMB,Online,12.46250793805872
+2023-04-08,North,Florida,Bob,Beta,Electronics,28,1286.71,488.2,New,Individual,Retail,37.941727351151386
+2023-04-07,East,Michigan,Bob,Alpha,Electronics,38,1949.4,578.33,New,Individual,Retail,29.667077049348517
+2023-04-07,South,Georgia,Bob,Alpha,Office Supplies,19,678.08,112.22,Returning,SMB,Retail,16.549669655497876
+2023-04-07,East,Illinois,Diana,Delta,Office Supplies,38,2347.74,901.27,New,Enterprise,Retail,38.388833516488205
+2023-04-06,North,Florida,Charlie,Beta,Electronics,27,1847.17,649.92,New,Enterprise,Online,35.18463379115078
+2023-04-06,North,Illinois,Charlie,Epsilon,Furniture,11,439.09,74.24,New,Enterprise,Retail,16.907695461067206
+2023-04-06,East,Texas,Alice,Beta,Office Supplies,34,1122.51,195.65,Returning,SMB,Retail,17.429688822371293
+2023-04-05,South,California,Charlie,Delta,Office Supplies,33,2221.49,824.23,Returning,Enterprise,Online,37.10257529856088
+2023-04-05,West,Florida,Charlie,Delta,Office Supplies,16,375.06,111.94,Returning,Individual,Online,29.84589132405482
+2023-04-05,South,Texas,Alice,Gamma,Electronics,40,2608.28,1033.99,New,Individual,Online,39.64259972088886
+2023-04-04,West,California,Bob,Gamma,Electronics,29,1301.36,340.77,New,Enterprise,Retail,26.18568267043708
+2023-04-04,West,Michigan,Diana,Delta,Office Supplies,38,3574.03,799.77,Returning,Enterprise,Retail,22.377260403522072
+2023-04-04,East,Michigan,Alice,Gamma,Electronics,39,3259.76,1159.86,Returning,Enterprise,Retail,35.58114707831251
+2023-04-04,West,California,Diana,Delta,Furniture,39,3657.75,673.29,New,Enterprise,Online,18.40721755177363
+2023-04-04,South,Florida,Alice,Epsilon,Furniture,1,57.86,16.24,Returning,Individual,Online,28.067749740753538
+2023-04-03,West,Michigan,Bob,Beta,Office Supplies,12,609.66,72.89,New,Individual,Online,11.955844241052391
+2023-04-02,South,New York,Charlie,Delta,Furniture,32,870.05,344.67,Returning,SMB,Retail,39.61496465720361
+2023-04-02,East,Pennsylvania,Charlie,Gamma,Office Supplies,42,1127.59,438.38,New,SMB,Retail,38.877606222119745
+2023-04-01,South,Illinois,Charlie,Delta,Furniture,30,1076.2,326.65,New,SMB,Online,30.35216502508827
+2023-04-01,West,Texas,Diana,Alpha,Furniture,15,541.23,145.14,Returning,SMB,Online,26.816695305138293
+2023-03-31,South,Georgia,Alice,Beta,Furniture,32,2502.88,812.78,New,Enterprise,Online,32.473790193696864
+2023-03-31,North,California,Alice,Delta,Furniture,36,1906.46,344.59,New,Individual,Retail,18.074861261185653
+2023-03-31,West,Texas,Diana,Epsilon,Office Supplies,35,1680.21,494.28,New,Individual,Online,29.41775135250951
+2023-03-31,South,California,Charlie,Alpha,Electronics,43,2994.25,1052.33,Returning,Enterprise,Online,35.14502797027636
+2023-03-29,West,Florida,Bob,Gamma,Electronics,6,294.61,42.89,Returning,Individual,Retail,14.558229523777197
+2023-03-29,North,Michigan,Charlie,Alpha,Office Supplies,35,3210.39,321.84,New,Individual,Retail,10.024950239690504
+2023-03-29,West,Ohio,Alice,Epsilon,Electronics,38,1305.06,176.88,Returning,SMB,Retail,13.553399843685348
+2023-03-28,North,North Carolina,Alice,Alpha,Office Supplies,4,194.98,29.17,New,Individual,Retail,14.960508770130271
+2023-03-28,West,New York,Bob,Epsilon,Office Supplies,2,197.39,69.2,New,SMB,Retail,35.05750037995846
+2023-03-27,South,Pennsylvania,Bob,Alpha,Office Supplies,13,399.74,159.39,Returning,SMB,Online,39.87341772151898
+2023-03-27,West,Texas,Bob,Alpha,Office Supplies,24,2160.31,522.73,Returning,SMB,Online,24.19699024677014
+2023-03-26,South,Pennsylvania,Diana,Beta,Furniture,22,1667.35,656.62,New,SMB,Online,39.381053767955144
+2023-03-26,East,Georgia,Charlie,Epsilon,Furniture,17,1288.26,292.11,New,Individual,Retail,22.67477062083741
+2023-03-26,West,Pennsylvania,Charlie,Alpha,Office Supplies,11,689.5,174.14,New,SMB,Retail,25.255982596084113
+2023-03-26,West,New York,Diana,Delta,Office Supplies,33,1171.15,129.73,Returning,Individual,Online,11.07714639456944
+2023-03-26,East,Texas,Alice,Alpha,Furniture,18,1419.63,178.44,Returning,Enterprise,Retail,12.569472327296548
+2023-03-25,South,Michigan,Diana,Beta,Furniture,5,180.74,29.35,Returning,SMB,Retail,16.238796060639594
+2023-03-25,West,Michigan,Charlie,Beta,Furniture,39,1967.43,546.78,New,Individual,Online,27.791585977645962
+2023-03-25,West,Illinois,Alice,Epsilon,Office Supplies,33,1586.46,412.42,New,SMB,Online,25.99624320814896
+2023-03-25,North,California,Charlie,Alpha,Office Supplies,5,436.27,165.81,New,SMB,Retail,38.00628051436038
+2023-03-24,West,Ohio,Diana,Delta,Office Supplies,49,4622.32,481.52,New,SMB,Retail,10.417279634469272
+2023-03-24,North,Florida,Bob,Delta,Electronics,50,3893.42,1133.47,New,Enterprise,Retail,29.112451263927348
+2023-03-24,South,North Carolina,Charlie,Alpha,Furniture,16,1060.03,228.8,New,Individual,Retail,21.584294784109886
+2023-03-24,North,Michigan,Alice,Delta,Electronics,8,501.34,57.09,New,Enterprise,Retail,11.387481549447482
+2023-03-24,South,Texas,Bob,Delta,Office Supplies,27,820.4,130.7,New,Enterprise,Online,15.931253047294003
+2023-03-24,East,New York,Alice,Delta,Electronics,42,2336.41,829.42,Returning,Enterprise,Retail,35.49976245607577
+2023-03-24,North,Pennsylvania,Diana,Beta,Furniture,19,1116.46,232.39,New,Individual,Retail,20.814897085430733
+2023-03-23,North,Georgia,Alice,Epsilon,Electronics,32,3128.79,460.88,Returning,SMB,Online,14.730295098105017
+2023-03-22,North,Texas,Charlie,Delta,Electronics,16,1165.42,228.96,New,SMB,Online,19.64613615692197
+2023-03-22,West,Pennsylvania,Diana,Beta,Office Supplies,44,1371.94,190.28,Returning,Individual,Online,13.869411198740469
+2023-03-22,West,Michigan,Diana,Beta,Office Supplies,42,3735,802.28,Returning,Individual,Online,21.480053547523426
+2023-03-21,South,North Carolina,Bob,Gamma,Furniture,35,2791.24,845.81,New,Individual,Retail,30.302302919132718
+2023-03-21,East,Michigan,Alice,Alpha,Furniture,14,873.61,260.25,New,Enterprise,Retail,29.790180973203146
+2023-03-21,North,Pennsylvania,Alice,Epsilon,Electronics,24,1490.22,586.42,New,SMB,Retail,39.35123673014722
+2023-03-21,East,Ohio,Diana,Delta,Electronics,16,1262.52,404.13,New,SMB,Retail,32.00978994392168
+2023-03-21,West,Ohio,Alice,Gamma,Office Supplies,44,2049.12,440.77,Returning,Enterprise,Online,21.510209260560632
+2023-03-21,West,Michigan,Bob,Alpha,Office Supplies,12,1035.59,268.07,New,Enterprise,Retail,25.885726976892403
+2023-03-21,South,Pennsylvania,Bob,Alpha,Office Supplies,46,1747.7,693.3,New,Individual,Online,39.66927962464953
+2023-03-20,North,Michigan,Bob,Epsilon,Office Supplies,24,2164.05,611.03,Returning,Enterprise,Retail,28.23548439268963
+2023-03-20,North,Pennsylvania,Charlie,Delta,Furniture,15,991.07,219.46,New,Individual,Retail,22.143743630621447
+2023-03-20,West,North Carolina,Diana,Beta,Furniture,25,725.15,88.78,New,SMB,Online,12.242984210163415
+2023-03-19,North,Texas,Bob,Delta,Furniture,8,223.46,64.03,Returning,Individual,Online,28.653897789313522
+2023-03-19,North,Michigan,Diana,Epsilon,Electronics,13,632.76,125.89,Returning,Enterprise,Online,19.895378974650736
+2023-03-18,East,Michigan,Charlie,Alpha,Electronics,28,2200.68,818.23,New,SMB,Online,37.180780486031594
+2023-03-18,East,Pennsylvania,Charlie,Alpha,Furniture,10,872.81,116.87,Returning,Individual,Online,13.390084898202359
+2023-03-18,East,Illinois,Bob,Gamma,Furniture,12,1072.79,335.7,New,SMB,Retail,31.292237996252766
+2023-03-17,North,Ohio,Bob,Epsilon,Electronics,41,1450.84,526.17,Returning,Enterprise,Retail,36.26657660389843
+2023-03-17,South,Michigan,Alice,Epsilon,Furniture,10,413.87,99.85,New,Enterprise,Online,24.125933264068426
+2023-03-17,South,California,Bob,Epsilon,Office Supplies,50,1300.64,427.07,Returning,SMB,Retail,32.83537335465617
+2023-03-17,South,Illinois,Alice,Delta,Furniture,50,3032,1137.72,New,Individual,Online,37.52374670184697
+2023-03-17,West,Illinois,Bob,Gamma,Furniture,21,882.23,277.59,Returning,SMB,Online,31.464584065379775
+2023-03-17,North,North Carolina,Diana,Gamma,Office Supplies,18,851.69,278.23,New,SMB,Online,32.667989526705725
+2023-03-17,East,New York,Alice,Gamma,Electronics,24,1211.86,275.83,New,Individual,Online,22.760879969633457
+2023-03-16,West,New York,Alice,Gamma,Office Supplies,31,1515.11,317.64,New,Enterprise,Retail,20.964814435915542
+2023-03-16,East,California,Diana,Beta,Electronics,5,441.37,100.26,Returning,Individual,Retail,22.715635407934386
+2023-03-16,West,Georgia,Charlie,Beta,Office Supplies,20,864.74,249.77,New,Individual,Online,28.88382635242963
+2023-03-16,North,New York,Bob,Beta,Furniture,32,2463.37,974.27,New,SMB,Online,39.55029086170571
+2023-03-16,South,California,Diana,Beta,Office Supplies,42,3636.14,366.65,Returning,Individual,Retail,10.0834951349508
+2023-03-15,East,Georgia,Diana,Delta,Furniture,29,2796.21,372.86,Returning,Individual,Online,13.334477739511696
+2023-03-15,East,Illinois,Bob,Gamma,Office Supplies,34,2507.5,689.73,Returning,Enterprise,Online,27.50667996011964
+2023-03-15,East,New York,Bob,Delta,Furniture,45,2711.93,575.78,Returning,Enterprise,Online,21.231373966142193
+2023-03-15,East,New York,Bob,Gamma,Office Supplies,46,3394.2,881.99,Returning,Enterprise,Online,25.985210064227214
+2023-03-15,South,Pennsylvania,Diana,Alpha,Office Supplies,33,3133.65,939.86,New,Individual,Online,29.992500757902125
+2023-03-14,West,New York,Alice,Epsilon,Furniture,17,1327.85,224.2,Returning,Enterprise,Retail,16.884437248183154
+2023-03-14,North,Pennsylvania,Bob,Delta,Electronics,21,1038.76,147.29,Returning,Individual,Online,14.179406215102622
+2023-03-14,East,New York,Bob,Alpha,Electronics,6,523.55,114.04,Returning,Enterprise,Online,21.782064750262634
+2023-03-13,South,Pennsylvania,Diana,Gamma,Electronics,19,985.1,249.04,Returning,Individual,Retail,25.28068216424728
+2023-03-13,South,Illinois,Alice,Gamma,Electronics,14,1201.74,259.42,New,Enterprise,Online,21.58703213673507
+2023-03-12,West,Georgia,Bob,Epsilon,Electronics,18,408.48,126.42,Returning,SMB,Online,30.948883666274966
+2023-03-12,West,Georgia,Bob,Epsilon,Office Supplies,44,3363.59,1332.8,Returning,SMB,Retail,39.62432995698049
+2023-03-12,West,Ohio,Alice,Alpha,Office Supplies,28,1025.76,369.69,Returning,SMB,Online,36.04059429106224
+2023-03-12,North,Texas,Charlie,Gamma,Office Supplies,44,3615.22,491.8,Returning,Enterprise,Online,13.60359812127616
+2023-03-11,West,Florida,Charlie,Alpha,Electronics,11,1048.38,286.17,Returning,Enterprise,Online,27.296400160247238
+2023-03-11,North,California,Alice,Delta,Office Supplies,36,3343.74,1304.7,New,Enterprise,Retail,39.019182113441836
+2023-03-10,North,Texas,Charlie,Epsilon,Office Supplies,6,224.49,51.91,Returning,Individual,Retail,23.123524433159602
+2023-03-10,South,North Carolina,Diana,Epsilon,Office Supplies,21,549.01,218.49,Returning,Enterprise,Retail,39.79708930620572
+2023-03-10,South,Georgia,Alice,Delta,Furniture,50,2651.87,770.52,Returning,SMB,Retail,29.055722942678187
+2023-03-10,East,Michigan,Bob,Delta,Furniture,23,1836.46,360.25,New,Enterprise,Retail,19.61654487437788
+2023-03-10,East,North Carolina,Diana,Epsilon,Electronics,14,713.41,233.62,New,Individual,Online,32.74694775795125
+2023-03-09,North,Ohio,Bob,Beta,Electronics,37,1976.39,583.51,Returning,SMB,Retail,29.52403118817642
+2023-03-09,North,California,Diana,Alpha,Furniture,22,694.27,248.84,Returning,Individual,Retail,35.84196350123151
+2023-03-08,South,New York,Diana,Gamma,Office Supplies,14,299.41,78.79,Returning,SMB,Online,26.315086336461707
+2023-03-08,South,Georgia,Diana,Epsilon,Furniture,38,2467.09,925.9,Returning,SMB,Online,37.530045519214944
+2023-03-08,South,Florida,Alice,Beta,Office Supplies,42,2006.25,737.45,Returning,Enterprise,Retail,36.7576323987539
+2023-03-08,North,Ohio,Alice,Beta,Office Supplies,30,1344.05,219.96,New,Enterprise,Retail,16.36546259439753
+2023-03-08,South,Texas,Bob,Beta,Office Supplies,39,2216.21,809.55,New,SMB,Retail,36.52857806796287
+2023-03-07,East,Michigan,Charlie,Gamma,Office Supplies,25,1308.76,226.53,Returning,Individual,Retail,17.30875026742871
+2023-03-07,West,Georgia,Diana,Gamma,Office Supplies,5,266.95,52.27,New,Enterprise,Online,19.580445776362616
+2023-03-06,South,Illinois,Alice,Gamma,Electronics,47,4610.82,629.37,Returning,Enterprise,Online,13.649849701354642
+2023-03-06,East,Pennsylvania,Alice,Alpha,Furniture,30,2338.69,400.09,New,Enterprise,Online,17.10744049018895
+2023-03-05,East,New York,Alice,Gamma,Furniture,26,1923.99,493.04,New,SMB,Retail,25.62591281659468
+2023-03-05,North,Pennsylvania,Bob,Epsilon,Furniture,50,1978.48,732.68,Returning,Enterprise,Retail,37.03246937042578
+2023-03-05,East,California,Alice,Gamma,Furniture,42,2529.59,887.89,Returning,SMB,Online,35.10015457050352
+2023-03-04,West,Illinois,Alice,Alpha,Office Supplies,21,1375.89,400.46,Returning,SMB,Retail,29.105524424190882
+2023-03-04,West,Michigan,Charlie,Epsilon,Electronics,28,2484.81,858.03,Returning,Individual,Retail,34.53101041930771
+2023-03-04,East,Ohio,Bob,Beta,Furniture,30,1863.57,287.47,Returning,Enterprise,Retail,15.425768820060423
+2023-03-03,North,North Carolina,Bob,Beta,Electronics,16,1548.55,453.63,Returning,Individual,Retail,29.293855542281488
+2023-03-02,West,Georgia,Charlie,Beta,Office Supplies,50,2621.24,514.13,Returning,SMB,Online,19.61399948116159
+2023-03-02,East,Illinois,Alice,Alpha,Office Supplies,13,1218.75,217.52,New,Individual,Retail,17.84779487179487
+2023-03-01,South,North Carolina,Bob,Beta,Electronics,21,1788.3,381.74,New,SMB,Online,21.34653022423531
+2023-02-28,South,California,Alice,Epsilon,Furniture,29,861.31,286.24,New,Individual,Online,33.23309841984884
+2023-02-28,West,Michigan,Alice,Epsilon,Office Supplies,25,1935.39,505.29,Returning,Individual,Online,26.107916233937345
+2023-02-28,West,Georgia,Charlie,Epsilon,Office Supplies,25,1399.3,248.43,Returning,Individual,Online,17.753876938469233
+2023-02-27,South,New York,Diana,Alpha,Electronics,8,455.52,125.74,New,Enterprise,Retail,27.60361784334387
+2023-02-27,South,Michigan,Charlie,Epsilon,Office Supplies,38,1538.82,325.85,New,Individual,Online,21.17531615133674
+2023-02-25,South,New York,Charlie,Gamma,Electronics,44,936.31,320.04,New,Enterprise,Retail,34.18098706624943
+2023-02-25,East,North Carolina,Charlie,Epsilon,Furniture,38,2976.29,858.16,Returning,Individual,Retail,28.833211817396826
+2023-02-24,North,Illinois,Bob,Beta,Office Supplies,8,201.31,58.05,Returning,Individual,Retail,28.836123391783815
+2023-02-24,East,North Carolina,Bob,Alpha,Electronics,2,152.27,40.22,Returning,SMB,Online,26.41360740789387
+2023-02-23,South,California,Alice,Alpha,Furniture,2,81.07,23.87,New,Individual,Online,29.443690637720493
+2023-02-23,North,Florida,Diana,Epsilon,Electronics,26,2439.09,258.98,Returning,Enterprise,Online,10.617894378641214
+2023-02-23,West,Illinois,Charlie,Alpha,Office Supplies,19,994.27,166.64,New,Individual,Online,16.76003500055317
+2023-02-23,West,Pennsylvania,Charlie,Delta,Electronics,14,419.75,66.4,New,Enterprise,Online,15.818939845145922
+2023-02-22,North,Pennsylvania,Alice,Delta,Office Supplies,35,1191.02,122.24,Returning,Enterprise,Retail,10.263471646152038
+2023-02-22,South,Illinois,Bob,Epsilon,Furniture,14,1389.72,205.84,Returning,Enterprise,Retail,14.811616728549637
+2023-02-22,East,Ohio,Bob,Beta,Office Supplies,15,1014.58,284.18,New,SMB,Retail,28.009619744130575
+2023-02-22,North,Illinois,Bob,Gamma,Electronics,42,3739.99,1169.1,Returning,SMB,Online,31.25944187016543
+2023-02-22,South,California,Diana,Gamma,Furniture,15,750.07,166.78,New,Individual,Retail,22.23525804258269
+2023-02-22,South,Michigan,Diana,Delta,Furniture,22,749.17,84.95,New,Enterprise,Retail,11.3392153983742
+2023-02-21,North,Florida,Charlie,Epsilon,Office Supplies,19,1187.36,137.61,New,Individual,Retail,11.58957687643175
+2023-02-21,North,North Carolina,Bob,Epsilon,Electronics,23,886.8,259.6,Returning,Individual,Online,29.273793414524135
+2023-02-20,West,California,Diana,Beta,Furniture,50,4282.58,1345.06,Returning,SMB,Online,31.40770283333878
+2023-02-20,North,Michigan,Bob,Delta,Office Supplies,20,479.52,185.94,Returning,Enterprise,Retail,38.77627627627628
+2023-02-20,West,North Carolina,Bob,Alpha,Furniture,35,3337.58,1218.02,Returning,Enterprise,Online,36.49410650830841
+2023-02-20,West,Pennsylvania,Alice,Epsilon,Furniture,27,556.81,59.58,New,Enterprise,Retail,10.700238860652647
+2023-02-20,South,Pennsylvania,Bob,Beta,Office Supplies,16,1293.38,478.66,Returning,SMB,Retail,37.00845845768452
+2023-02-19,North,Michigan,Bob,Alpha,Electronics,32,2092.64,214.94,New,SMB,Retail,10.271236333052986
+2023-02-19,West,Georgia,Diana,Gamma,Electronics,42,2545.93,738.98,New,Individual,Online,29.02593551275958
+2023-02-19,North,North Carolina,Diana,Epsilon,Electronics,26,1565.4,376.04,New,SMB,Online,24.02197521400281
+2023-02-19,West,Ohio,Alice,Epsilon,Office Supplies,3,276.93,107.95,New,Enterprise,Online,38.98096992019644
+2023-02-19,East,Ohio,Diana,Gamma,Furniture,1,76.84,22.53,Returning,Individual,Online,29.320666319625193
+2023-02-19,South,Pennsylvania,Charlie,Gamma,Office Supplies,40,1338.48,271.66,New,Individual,Retail,20.296156834618376
+2023-02-18,East,Michigan,Bob,Beta,Furniture,16,476.02,72.06,New,SMB,Online,15.138019410949122
+2023-02-17,South,California,Bob,Delta,Electronics,5,349.53,131.22,New,SMB,Retail,37.541841901982664
+2023-02-17,West,Illinois,Bob,Beta,Furniture,13,319.36,116.53,New,Enterprise,Online,36.488602204408814
+2023-02-17,East,North Carolina,Bob,Alpha,Office Supplies,27,757.83,142.32,New,Enterprise,Online,18.779937452990776
+2023-02-16,West,Michigan,Charlie,Beta,Furniture,33,884.86,90.4,New,SMB,Retail,10.21630540424474
+2023-02-16,North,Pennsylvania,Alice,Epsilon,Office Supplies,41,3620.86,1370.88,Returning,SMB,Retail,37.86061874803224
+2023-02-15,South,Georgia,Charlie,Epsilon,Office Supplies,48,2560.5,281.09,New,Enterprise,Retail,10.977933997266158
+2023-02-14,South,North Carolina,Charlie,Alpha,Furniture,49,2357.85,343.36,Returning,Individual,Retail,14.562419153041967
+2023-02-14,West,California,Diana,Delta,Office Supplies,16,1156.54,141.53,Returning,Enterprise,Retail,12.237363169453715
+2023-02-14,North,Georgia,Charlie,Gamma,Furniture,47,3153.27,407.35,New,Individual,Online,12.918335569107626
+2023-02-13,North,Texas,Alice,Alpha,Furniture,6,423.82,106.53,Returning,Enterprise,Online,25.135670803643055
+2023-02-13,West,Texas,Charlie,Alpha,Office Supplies,41,2830.71,913.13,Returning,Individual,Online,32.25798474587648
+2023-02-13,East,Texas,Diana,Epsilon,Office Supplies,34,1485.69,393.97,Returning,Individual,Retail,26.517644999966343
+2023-02-13,West,Ohio,Alice,Alpha,Electronics,48,4309.22,682.68,Returning,Enterprise,Online,15.84231020927221
+2023-02-13,South,Pennsylvania,Diana,Alpha,Electronics,44,1807.42,284.09,Returning,SMB,Online,15.71798475174558
+2023-02-12,North,Pennsylvania,Alice,Delta,Electronics,33,1475.99,456.17,New,Individual,Online,30.90603594875304
+2023-02-11,North,New York,Diana,Delta,Electronics,45,2950.07,295.34,Returning,SMB,Retail,10.011287867745509
+2023-02-11,North,Illinois,Diana,Epsilon,Office Supplies,45,1159.44,266.5,New,SMB,Retail,22.98523425101773
+2023-02-11,South,Florida,Alice,Delta,Furniture,6,594.17,168.66,New,SMB,Online,28.385815507346386
+2023-02-11,North,Illinois,Charlie,Beta,Office Supplies,2,103.69,17.54,New,Individual,Retail,16.91580673160382
+2023-02-11,South,Ohio,Charlie,Gamma,Office Supplies,11,723.49,192.87,Returning,Individual,Online,26.65828138605924
+2023-02-11,North,Ohio,Alice,Epsilon,Electronics,48,4316.56,1230.77,Returning,Enterprise,Retail,28.51275089423059
+2023-02-09,South,North Carolina,Bob,Beta,Electronics,7,412.68,98.2,Returning,Enterprise,Retail,23.795677037898614
+2023-02-08,South,Pennsylvania,Bob,Alpha,Office Supplies,27,965.5,152.23,Returning,Enterprise,Online,15.766960124287932
+2023-02-07,East,California,Diana,Epsilon,Furniture,21,992.28,371.68,New,SMB,Retail,37.457169347361635
+2023-02-07,North,New York,Bob,Gamma,Furniture,50,4119.06,642.82,New,Individual,Retail,15.605987773909579
+2023-02-07,North,North Carolina,Charlie,Gamma,Electronics,12,762.16,234.57,New,SMB,Online,30.77700220426157
+2023-02-06,North,Pennsylvania,Alice,Delta,Furniture,48,3375.81,1304.16,New,Individual,Online,38.63250597634346
+2023-02-06,North,North Carolina,Charlie,Gamma,Electronics,26,793.66,168.95,Returning,SMB,Online,21.28745306554444
+2023-02-05,South,Ohio,Diana,Epsilon,Office Supplies,34,771.58,206.67,New,Enterprise,Retail,26.785297700821687
+2023-02-05,East,Pennsylvania,Diana,Gamma,Furniture,45,4295.37,1565.37,New,SMB,Retail,36.44319348507812
+2023-02-05,South,Pennsylvania,Charlie,Delta,Electronics,28,2047.17,496.14,New,Enterprise,Retail,24.2354079045707
+2023-02-04,North,Illinois,Charlie,Delta,Office Supplies,23,1652.73,520.92,New,Individual,Online,31.518759870033215
+2023-02-04,North,Illinois,Diana,Alpha,Electronics,13,381.03,140.05,New,Enterprise,Online,36.755636039157025
+2023-02-04,North,California,Charlie,Beta,Electronics,29,2864.21,287,New,SMB,Retail,10.020214998201947
+2023-02-04,North,Georgia,Bob,Alpha,Furniture,23,1514.37,371.7,New,Individual,Retail,24.54486023891123
+2023-02-03,South,North Carolina,Alice,Gamma,Furniture,4,241.33,42.76,New,SMB,Retail,17.718476774541084
+2023-02-03,South,Illinois,Diana,Beta,Electronics,39,1060.06,302.89,Returning,Enterprise,Retail,28.572910967303738
+2023-02-02,West,Texas,Alice,Epsilon,Electronics,2,73.71,9.59,New,SMB,Online,13.010446343779677
+2023-02-01,South,New York,Diana,Beta,Furniture,2,61.55,19.21,New,Enterprise,Online,31.210398050365562
+2023-02-01,North,Florida,Diana,Alpha,Furniture,10,841.99,332.95,New,Enterprise,Retail,39.54322497891899
+2023-02-01,South,Florida,Diana,Delta,Electronics,9,496.34,76.1,Returning,Individual,Online,15.332231937784583
+2023-02-01,East,Texas,Bob,Alpha,Furniture,10,465.99,120.63,New,SMB,Retail,25.886821605613854
+2023-01-31,East,Pennsylvania,Bob,Beta,Furniture,34,2108.73,333.3,Returning,Individual,Retail,15.805721927416027
+2023-01-31,South,Georgia,Bob,Epsilon,Electronics,16,685.18,120.1,Returning,SMB,Retail,17.528240754254355
+2023-01-31,West,New York,Bob,Beta,Electronics,34,2093.76,729.05,Returning,SMB,Retail,34.820132202353655
+2023-01-31,North,Ohio,Charlie,Alpha,Furniture,32,2738.9,628.75,Returning,Individual,Online,22.956296323341487
+2023-01-31,South,North Carolina,Bob,Gamma,Electronics,31,2780.23,909.51,New,Enterprise,Retail,32.71348053937984
+2023-01-30,West,North Carolina,Charlie,Delta,Electronics,29,2675.33,530.27,New,Individual,Retail,19.820732395629697
+2023-01-30,South,New York,Bob,Epsilon,Electronics,27,785.77,277.82,New,SMB,Retail,35.35640200058541
+2023-01-30,North,New York,Charlie,Gamma,Furniture,39,1537.57,387.72,New,Individual,Retail,25.21641291128209
+2023-01-29,West,Texas,Bob,Alpha,Electronics,43,2256.11,606.12,New,SMB,Retail,26.865711334996963
+2023-01-29,West,Pennsylvania,Alice,Alpha,Furniture,20,1973.96,643.77,New,Individual,Retail,32.61312285963241
+2023-01-29,East,Georgia,Alice,Beta,Electronics,31,2044.86,574.28,New,SMB,Online,28.08407421534971
+2023-01-29,South,Texas,Charlie,Alpha,Furniture,13,1134.66,281.36,Returning,SMB,Online,24.79685544568417
+2023-01-28,East,Texas,Alice,Beta,Electronics,39,2411.47,885.5,New,Individual,Online,36.720340705047136
+2023-01-28,West,Texas,Diana,Alpha,Office Supplies,29,2534.29,590.69,Returning,Enterprise,Online,23.307908723942408
+2023-01-28,North,Florida,Bob,Epsilon,Office Supplies,38,2343.59,258.25,Returning,Individual,Retail,11.019418925665326
+2023-01-28,South,New York,Charlie,Epsilon,Office Supplies,6,252.94,69.49,New,Enterprise,Online,27.472918478690595
+2023-01-28,North,Florida,Alice,Epsilon,Office Supplies,16,485.06,99.03,Returning,SMB,Online,20.416031006473425
+2023-01-27,South,Michigan,Bob,Alpha,Electronics,15,1085.21,142.56,Returning,Enterprise,Retail,13.136627933763972
+2023-01-27,East,Texas,Diana,Beta,Office Supplies,11,378.15,48.98,Returning,Enterprise,Online,12.95253206399577
+2023-01-27,West,Georgia,Diana,Delta,Furniture,42,1017.77,351.27,Returning,Enterprise,Online,34.51369169851735
+2023-01-26,East,New York,Alice,Delta,Electronics,43,1434.53,530.41,New,SMB,Retail,36.97447944622977
+2023-01-25,South,Michigan,Bob,Gamma,Furniture,30,1528.04,233.58,New,Individual,Retail,15.286249051071962
+2023-01-25,North,Pennsylvania,Alice,Delta,Furniture,18,558.83,152.93,New,SMB,Retail,27.366104181951577
+2023-01-24,North,Georgia,Diana,Epsilon,Furniture,10,432.07,162.18,New,SMB,Online,37.535584511768924
+2023-01-24,South,Illinois,Charlie,Alpha,Furniture,1,40.71,5.08,New,SMB,Online,12.478506509457135
+2023-01-24,North,New York,Diana,Epsilon,Electronics,50,1684.69,602.43,New,SMB,Retail,35.75910108091102
+2023-01-24,East,Florida,Diana,Gamma,Furniture,46,3571.51,1395.19,Returning,SMB,Retail,39.064429331011254
+2023-01-24,North,Michigan,Bob,Beta,Furniture,9,684.01,201.08,Returning,Individual,Retail,29.397231034633997
+2023-01-23,North,Ohio,Bob,Epsilon,Electronics,23,915.88,324.25,New,Enterprise,Online,35.40310957767393
+2023-01-23,West,Georgia,Charlie,Alpha,Furniture,11,435.83,75.02,New,Individual,Online,17.213133561250945
+2023-01-23,West,Michigan,Bob,Gamma,Furniture,49,3853.16,955.66,New,Enterprise,Retail,24.80198071193514
+2023-01-23,West,Florida,Bob,Epsilon,Furniture,49,3841.45,717.33,New,SMB,Online,18.673417589712223
+2023-01-23,East,Ohio,Bob,Gamma,Office Supplies,21,574.87,218.98,New,SMB,Online,38.092090385652405
+2023-01-22,West,Illinois,Charlie,Alpha,Electronics,37,1942.08,225.26,Returning,SMB,Online,11.598904267589388
+2023-01-22,East,Georgia,Diana,Delta,Furniture,6,157.6,49.77,Returning,Enterprise,Online,31.57994923857868
+2023-01-21,North,Michigan,Bob,Beta,Electronics,33,2522.41,321.72,Returning,SMB,Online,12.754468940418093
+2023-01-20,South,Texas,Diana,Alpha,Office Supplies,33,2874.83,907.91,Returning,Enterprise,Retail,31.581345679570617
+2023-01-19,West,Pennsylvania,Diana,Alpha,Electronics,43,2086.35,382.66,New,Individual,Retail,18.34112205526398
+2023-01-19,North,Texas,Diana,Epsilon,Electronics,11,543.3,94.19,Returning,Individual,Online,17.33664642002577
+2023-01-19,North,Illinois,Charlie,Epsilon,Electronics,49,4405.44,975.85,New,Enterprise,Retail,22.151022372339654
+2023-01-18,North,Pennsylvania,Diana,Delta,Office Supplies,35,753.99,115.87,Returning,SMB,Retail,15.367577819334475
+2023-01-18,South,Georgia,Alice,Delta,Electronics,25,2328.2,286.2,New,Enterprise,Online,12.29275835409329
+2023-01-18,East,Ohio,Diana,Alpha,Office Supplies,23,707.03,278.71,Returning,SMB,Online,39.41982659858846
+2023-01-16,East,New York,Bob,Gamma,Office Supplies,12,771.36,176.48,Returning,SMB,Retail,22.879070732213233
+2023-01-16,East,Illinois,Diana,Delta,Electronics,32,1991.23,205.77,Returning,Individual,Retail,10.333813773396344
+2023-01-16,North,Pennsylvania,Alice,Delta,Furniture,32,1756.81,546.58,Returning,SMB,Online,31.112072449496537
+2023-01-16,North,Ohio,Diana,Gamma,Electronics,42,1060.14,416.2,Returning,SMB,Online,39.25896579697021
+2023-01-15,South,Michigan,Alice,Alpha,Office Supplies,26,2257.79,242.37,Returning,Individual,Retail,10.734833620487292
+2023-01-15,East,Texas,Alice,Delta,Electronics,19,1740.45,582.85,New,Individual,Online,33.48846562670574
+2023-01-15,North,Illinois,Charlie,Delta,Office Supplies,18,603.12,206.96,Returning,Individual,Retail,34.314895874784455
+2023-01-14,North,Michigan,Diana,Beta,Furniture,30,2885.33,533.47,Returning,Individual,Online,18.489046313593246
+2023-01-14,South,Illinois,Charlie,Gamma,Furniture,49,4041.2,998.15,New,Enterprise,Online,24.69934672869445
+2023-01-14,North,California,Charlie,Delta,Electronics,42,2225.77,408.75,Returning,Enterprise,Online,18.36443118561217
+2023-01-14,East,Pennsylvania,Bob,Gamma,Furniture,45,2722.72,449.72,New,SMB,Online,16.517306223188577
+2023-01-14,South,North Carolina,Charlie,Epsilon,Electronics,1,65.83,24.51,New,Individual,Online,37.23226492480632
+2023-01-13,North,Ohio,Bob,Beta,Furniture,29,870.57,310.61,Returning,Enterprise,Retail,35.67892300446834
+2023-01-13,East,Georgia,Charlie,Gamma,Electronics,14,1273.04,504.02,New,Individual,Retail,39.59184314711242
+2023-01-13,West,Georgia,Diana,Epsilon,Electronics,37,1412.36,544.76,New,Enterprise,Online,38.57090260273585
+2023-01-13,North,Texas,Alice,Epsilon,Electronics,50,3662.97,928.13,New,Individual,Online,25.33818185789127
+2023-01-13,South,Pennsylvania,Bob,Gamma,Office Supplies,27,1424.02,430.45,Returning,Individual,Retail,30.227805789244535
+2023-01-12,East,Pennsylvania,Diana,Gamma,Electronics,4,193.79,73.97,Returning,SMB,Retail,38.17018422003199
+2023-01-12,East,Pennsylvania,Alice,Beta,Furniture,1,78.94,12.8,New,Enterprise,Retail,16.214846719027108
+2023-01-11,South,Pennsylvania,Bob,Delta,Electronics,27,1040.91,142.45,New,Enterprise,Online,13.685140886339836
+2023-01-10,West,Michigan,Charlie,Delta,Office Supplies,17,1166.03,160.45,New,SMB,Online,13.760366371362656
+2023-01-10,North,New York,Alice,Beta,Furniture,50,1167,353.19,New,Individual,Online,30.26478149100257
+2023-01-09,South,North Carolina,Bob,Alpha,Electronics,44,1402.97,411.06,New,SMB,Online,29.299272258138092
+2023-01-08,North,Michigan,Diana,Delta,Electronics,23,2082.29,265.03,New,SMB,Online,12.727814089295919
+2023-01-08,West,Georgia,Bob,Gamma,Office Supplies,27,2273.67,902,New,SMB,Retail,39.67154424344781
+2023-01-08,East,Texas,Alice,Alpha,Furniture,34,1194.74,326.53,New,Individual,Online,27.330632606257428
+2023-01-08,East,New York,Charlie,Epsilon,Office Supplies,1,76.37,19.63,Returning,Individual,Retail,25.703810396752647
+2023-01-08,North,North Carolina,Alice,Epsilon,Furniture,19,731.4,278.14,New,Enterprise,Online,38.028438610883235
+2023-01-07,North,North Carolina,Alice,Epsilon,Electronics,21,1947.07,340.11,New,Enterprise,Retail,17.46778492812277
+2023-01-07,West,North Carolina,Charlie,Gamma,Furniture,17,961.4,241.32,New,SMB,Online,25.10089452881215
+2023-01-06,North,New York,Charlie,Epsilon,Electronics,39,1689.24,375.26,New,Enterprise,Online,22.214723781108663
+2023-01-06,East,Ohio,Alice,Alpha,Electronics,3,151.25,49.94,New,SMB,Online,33.018181818181816
+2023-01-06,North,New York,Bob,Delta,Electronics,29,2876.54,775.62,New,Enterprise,Retail,26.96364382209182
+2023-01-06,East,North Carolina,Charlie,Delta,Office Supplies,47,3341.37,1245.9,Returning,Enterprise,Online,37.28710079997127
+2023-01-06,North,Florida,Charlie,Epsilon,Electronics,20,1155.71,180.05,New,SMB,Retail,15.579167784305753
+2023-01-05,East,Texas,Diana,Alpha,Electronics,3,88.02,15.48,New,Individual,Online,17.586912065439677
+2023-01-05,North,North Carolina,Diana,Epsilon,Electronics,4,267.02,92.1,New,Enterprise,Retail,34.491798367163504
+2023-01-05,South,Georgia,Alice,Delta,Electronics,21,1508.37,198.66,New,Individual,Online,13.170508562222796
+2023-01-04,South,New York,Diana,Delta,Furniture,16,1092.25,383.17,New,SMB,Online,35.08079652094301
+2023-01-04,South,Illinois,Alice,Gamma,Office Supplies,24,2370.08,461.88,New,Individual,Retail,19.487949773847298
+2023-01-03,West,Michigan,Alice,Delta,Furniture,26,1521.13,261.96,New,Enterprise,Online,17.221407769224193
+2023-01-02,North,Texas,Alice,Delta,Electronics,7,643.07,167.51,New,Individual,Retail,26.04848616791329
+2023-01-02,West,California,Alice,Alpha,Electronics,7,427.93,131.27,New,SMB,Online,30.675577781412848
+2023-01-02,South,California,Bob,Alpha,Electronics,7,235.99,56.74,Returning,Individual,Online,24.043391669138522
+2023-01-02,South,New York,Charlie,Delta,Furniture,39,1113.08,362.58,New,Individual,Online,32.57447802493981
+2023-01-02,South,Illinois,Diana,Gamma,Office Supplies,33,2729.91,689.51,Returning,SMB,Retail,25.25760922521255
+2023-01-01,North,Florida,Alice,Epsilon,Electronics,15,859.95,226.14,Returning,SMB,Online,26.296877725449153
+2023-01-01,South,Florida,Charlie,Delta,Office Supplies,21,748.31,97.43,New,SMB,Online,13.020005078109342
+2023-01-01,East,Georgia,Bob,Delta,Office Supplies,28,2795.31,1108.84,New,Individual,Retail,39.66787225745981
